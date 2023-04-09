@@ -8,7 +8,7 @@ This web site contains mostly genealogical information about the Nierstrasz fami
 
 The information here has been cobbled together from various sources. (See the family tree for details.) I would be grateful for any additions, corrections or updates. (Emails in Dutch, German, Italian or French are also welcome!)
 
-- [Nierstrasz-Hahn-Margiotta family tree](/Tree/)
+- [Nierstrasz-Hahn-Margiotta family tree](/Tree/wc_toc.html)
 - About the name "Nierstraß"
 - About the origin of the Nierstrasz family (in German)
 - About the Nierstrasz coat-of arms
