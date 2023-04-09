@@ -11,8 +11,6 @@
 - Added the custom domain www.test.nierstrasz.org to the GH Pages settings for nierstrasz.org
 - It works!
 - Added a changelog
-- Added `_pages` folder and first landing page
+- Added `_pages` folder and first landing page; removed default `index.html`
 - Copied WebCards to Tree folder
-
-
-
+- Removed `Recent posts` from the home layout
