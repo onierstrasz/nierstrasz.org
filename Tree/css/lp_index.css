@@ -1,0 +1,139 @@
+.pageBody, #pBody
+	{
+	margin-right: auto;
+	margin-left: auto;
+	width: 760px;
+	}
+
+.reportBody, #rBody
+	{
+	margin-top: 0px;
+	padding-bottom: 2px;
+
+	border-top: 1px;
+	border-bottom: 1px;
+	}
+
+hr
+	{
+	margin-right: 10px;
+	margin-left: 10px;
+	}
+
+.idxBar
+	{
+	text-align: center;
+	line-height: 40px;
+	margin-left: 2px;
+	margin-right: 2px;
+	}
+
+.idxBody
+	{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}
+
+.idxLetter, .idxSur
+	{
+	font-weight: bold;
+	}	
+
+.sur
+	{
+	padding: 2px;
+	}
+
+.surRecord
+	{
+	margin: .2em;
+	padding-top: .2em;
+	}
+	
+div.sur > div:first-child
+	{
+	border-top: none;
+	padding-top: 0em;
+	}
+
+.surLetter
+	{
+	float: left;
+	width: 1em;
+	font-size: 1.2em;
+	text-align: center;
+	}
+
+.surName
+	{
+	display: block;
+	margin-left: 1.5em;
+	padding-top: .15em;
+	}
+
+.idxLetter
+	{
+	letter-spacing: 5px;
+	}	
+
+.idxSur
+	{
+	font-weight: bold;
+	padding: 2pt;
+	margin: 0px;
+	margin-top: 4px;
+	margin-bottom: 1px;
+	}
+
+.idxName
+	{
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: .1em;
+	padding-bottom: .1em;
+	}
+
+.idxDate
+	{
+	letter-spacing: -1px;
+	}
+
+.rrNav
+	{
+	text-align: center;
+	font-weight: bold;
+	padding: 2px 0px 2px 0px;
+	padding: .4em;
+	}
+
+@media all and (min-width: 415px)
+	{
+	.sur
+		{
+		padding-left: 18px;
+		padding-right: 18px;
+		}
+
+	.idxBar
+		{
+		margin-left: 50px;
+		margin-right: 50px;
+		}
+
+	.idxBody
+		{
+		margin-top: 12px;
+		margin-bottom: 12px;
+		}
+	
+	.idxSur
+		{
+		padding-top: 4px;
+		margin-top: 10px;
+		}
+
+	.idxName
+		{
+		padding: .1em .1em .1em 2em;
+		}
+	}

@@ -1,0 +1,67 @@
+.pageTitle, .tocTitle, #pTitle
+	{
+	font-size: 1.7em;
+	font-weight: bold;
+	}
+
+.pageTitle, .tocTitle
+	{
+	text-align: center;
+	}
+
+.tocTitle
+	{
+	font-size: 1.7em;
+	}
+
+.tocIntroTitle, .tocLinksTitle, .tocContactTitle
+	{
+	font-size: 1.6em;
+	}
+
+.psTitle
+	{
+	font-size: 1.2em;
+	text-align: right;
+	}
+
+.citation
+	{
+	font-size: 0.6em;
+	font-weight: normal;
+	vertical-align: super;
+	}
+
+.wcSpousesTitle
+	{
+	font-weight: bold;
+	}
+
+.footerCreated, .footerCustom
+	{
+	font-size: 1.0em;
+	}
+
+@media all and (min-width: 300px) and (min-height: 375px)
+	{
+	#pTitle
+		{
+		font-size: 1.1em;
+		}
+	}
+
+@media all and (min-width: 414px) and (min-height: 414px)
+	{
+	#pTitle
+		{
+		font-size: 1.3em;
+		}
+	}
+
+@media all and (min-width: 550px) and (min-height: 550px)
+	{
+	#pTitle
+		{
+		font-size: 1.6em;
+		}
+	}

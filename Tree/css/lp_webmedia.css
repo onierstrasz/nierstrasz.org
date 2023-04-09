@@ -1,0 +1,113 @@
+a img {	border-style: none; margin: 0 3px; }
+
+.pageBody, #pBody
+	{
+	margin-right: auto;
+	margin-left: auto;
+	width: 760px;
+	}
+
+.reportBody, #rBody
+	{
+	margin-top: 0px;
+	padding: 0px;
+	padding-bottom: 2px;
+	}
+
+.wmTOC
+	{
+	font-size: 1.1em;
+	width: 100%;
+	padding-top: 5px;
+	text-align: center;
+	}
+	
+.wmTOCEntry
+	{
+	display: list-item;
+	list-style-position: inside;
+	width: 100%;
+	margin-bottom: 5px;
+	}
+
+.wmItemRecord
+	{
+	opacity: 1;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	}
+
+.wmItemMedia
+	{
+	margin-top: 10px;
+	}
+
+.wmItemTitle
+	{
+	margin-right: 0px;
+	margin-left: 0px;
+	text-align: center;
+	padding-top: 2pt;
+	opacity: 1;
+	}
+
+.wmPicture img
+	{
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	max-width: 98%;
+	}
+
+.wmTop
+	{
+	text-align: left;
+	}
+	
+.wmRelated
+	{
+	text-align: center;
+	}
+	
+.wmRelatedTitle
+	{
+	display: block;
+	font-weight: bold;
+	}
+
+.wmRelatedPages
+	{
+	display: block;
+	}
+	
+.wmRelatedRecord
+	{
+	width: 100%;
+	margin: auto;
+	}
+
+video
+	{
+	max-width: 98%;
+	height: auto;
+	}
+
+@media all and (min-width: 415px)
+	{
+	.wmPicture img
+		{
+		border: 1px solid;
+		max-width: 95%;
+		}
+	
+	.wmItemRecord
+		{
+		opacity: 1;
+		}
+	
+	video
+		{
+		max-width: 95%;
+		}
+	}
+

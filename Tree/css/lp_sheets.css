@@ -1,0 +1,204 @@
+a img {	border-style: none; margin: 0px 3px; }
+
+.pageBody, #pBody
+	{
+	margin-right: auto;
+	margin-left: auto;
+	width: 760px;
+	}
+
+.reportBody, #rBody
+	{
+	padding-bottom: 0px;
+
+	border-top: 1px;
+	border-bottom: 1px;
+	}
+
+.psFRecord, .psMRecord, .psRecord
+	{
+	margin-top: 0;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	vertical-align: top;
+	overflow: auto;
+	}
+
+.psText
+	{
+	font-size: 1.0em;
+	text-align: left;
+	}
+
+.psName > .psText
+	{
+	font-weight: bold;
+	}
+
+.psPicture img
+	{
+	width: 60px;
+	height: auto;
+	float: right;
+	}
+
+.psEvent, .psName, .psFact, .psParent, .psChild, .psSpouse, .psOtherSpouses
+	{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	}
+
+div.psRecordEnd
+	{
+	clear: both;
+	height: 0em;
+	}
+
+.colFirst, .psTitle
+	{
+	display: inline-block;
+	line-height: 20px;
+	width: 100px;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 8px;
+	}
+
+.psTitle
+	{
+	font-size: 1.1em;
+	text-align: right;
+	}
+
+.colSecond
+	{
+	display: inline;
+	line-height: 20px;
+	}
+
+.psSpousesTitle
+	{
+	margin-top: 5px;
+	font-weight: bold;
+	}
+	
+.psChildren
+	{
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	font-size: 1.1em;
+	}
+
+.psNotesTitle
+	{
+	margin-top: 0.5em;
+	padding: 0.2em;
+	font-weight: bold;
+	}
+
+.wcMediaTitle
+	{
+	font-weight: bold;
+	}
+
+.psFooter
+	{
+	padding: 0.6em;
+	margin-left: 0px;
+	margin-right: 0px;
+	}
+
+.psFooterRecord
+	{
+	width: 100%;
+	font-style: italic;
+	text-align: center;
+	font-size: 0.9em;
+	}
+	
+.psModDate
+	{
+	display: block;
+	}
+	
+.mediaIcon
+	{
+	margin-left: 2px;
+	vertical-align: bottom;
+	margin-bottom: 2px;
+	}
+	
+@media all and (min-width: 415px)
+	{
+	.reportBody, #rBody
+		{
+		border: 1px solid black;
+		}
+
+	.psPerson
+		{
+		padding-right: 0.5em;
+		padding-left: 0.5em;
+		font-size: 1.0em;
+		}
+
+	.psFRecord, .psMRecord, .psRecord
+		{
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+		vertical-align: top;
+		overflow: auto;
+		}
+
+	.psPicture img
+		{
+		width: 70px;
+		}
+
+	.psFooter
+		{
+		border-top: 1px solid;
+		}		
+
+	.psFooterRecord
+		{
+		text-align: right;
+		}
+	
+	.psModDate
+		{
+		display: inline;
+		float: left;
+		padding-left: .5em;
+		}
+	
+	.psCreated
+		{
+		text-align: right;
+		padding-right: .5em;
+		}
+	}
+
+@media all and (min-width: 512px)
+	{
+	.psPicture img
+		{
+		width: 90px;
+		}
+	}
+
+@media all and (min-width: 769px)
+	{
+	.psPicture img
+		{
+		width: 125px;
+		}
+	.psFooter
+		{
+		margin-left: 0.5em;
+		margin-right: 0.5em;
+		}
+	}
+
+
+

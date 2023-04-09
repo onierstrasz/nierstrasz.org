@@ -1,0 +1,23 @@
+.pageBody, #pBody
+	{
+	margin-right: auto;
+	margin-left: auto;
+	width: 760px;
+	}
+
+.reportBody, #rBody
+	{
+	margin-top: 0px;
+	padding-left: 2px;
+	}
+
+.srcEntry
+	{
+	padding: 2px;
+	}
+	
+.srcNumber
+	{
+	font-weight: bold;
+	min-width: 72px;
+	}

@@ -1,0 +1,180 @@
+.reportBody, #rBody
+	{
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	}
+
+#pHeader, #menu ul
+	{
+	border-style: solid;
+	}
+
+.tocLinks, .tocIntro, .tocSur, .tocContact
+	{
+	border-top: 1px solid;
+	border-bottom: 1px dotted;
+	}
+
+
+.psPicture img
+	{
+	border-width: 1px;
+	border-style: solid;
+	}
+
+.drBox, .drBoxBold
+	{
+	border-width: 1px;
+	border-style: solid;
+	}
+
+.fhName
+	{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+
+	border-top-width: 1px;
+	border-top-style: solid;
+	}
+
+.fhNotesData
+	{
+	border-left-width: 1px;
+	border-left-style: dotted;
+	}
+
+.idxBar
+	{
+	border-bottom: 3px double;
+	}
+
+.surRecord
+	{
+	border-top: 1px dotted;
+	}
+
+.idxSur
+	{
+	border-bottom: 1px solid;
+	}
+
+.rrSpouseData
+	{
+	border-top: 1px solid;
+	}
+
+
+
+.psFRecord, .psMRecord, .psRecord
+	{
+	border-width: 1px;
+	border-style: solid;
+
+	overflow-x: hidden;
+	overflow-y: hidden;
+	}
+
+.psNotesData
+	{
+	border: 1px dotted;
+	padding: 0.2em;
+	}
+
+.psPicture img
+	{
+	margin-top: -1px;
+	margin-right: -1px;
+	margin-bottom: -1px;
+	}
+
+.rrPerson .psPicture img,
+.psPerson .psPicture img
+	{
+	margin: 0px;
+	}
+
+.srcEntry
+	{
+	border-bottom: 1px solid;
+	}
+
+.wcHFacts, .wcWFacts
+	{
+	border: 1px solid;
+	}
+
+.wcHFather, .wcHMother, .wcWFather, .wcWMother,
+.wcHusband, .wcWife, .wcFHusband, .wcMWife,
+.wcChild, .wcChildBold, .wcMChild, .wcFChild, .wcMChildBold, .wcFChildBold
+	{
+	border: 1px solid;
+
+	-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    border-radius: 3px;
+	}
+
+.wcFactPicture img
+	{
+	border-radius: 2px;
+	border: 4px double;
+	
+	margin-top: -1px;
+	margin-right: -1px;
+	margin-bottom: -1px;
+	}
+
+@media all and (min-width: 415px)
+	{
+	.reportBody, #rBody
+		{
+		border: 1px solid;
+		}
+
+	.psFRecord, .psMRecord, .psRecord
+		{
+		border: 1px solid;
+		}
+
+	.psPicture img
+		{
+		border-width: 4px;
+		border-radius: 2px;
+		border-style: double;
+		}
+
+	.wmItemRecord
+		{
+		border: 1px dotted;
+		margin: 10px;
+		padding: 10px;
+		}
+	}
+
+@media all and (min-width: 769px)
+	{
+	.reportBody, #rBody
+		{
+		padding: 10px;
+		
+		border-left: 1px solid black;
+		border-right: 1px solid black;
+
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 10px;
+		-khtml-border-radius: 10px;
+		border-radius: 10px;
+		}
+
+	.tocLinks, .tocIntro, .tocSur, .tocContact
+		{
+		border-left: 1px dotted;
+		border-right: 1px dotted;
+		}
+		
+	.psFooter
+		{
+		border: 1px solid;
+		}
+	}

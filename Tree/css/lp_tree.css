@@ -1,0 +1,689 @@
+/*General Settings*/
+
+.pageBody, #pBody
+	{
+	margin-left: auto;
+	margin-right: auto;
+	width: 66.5em;
+	}
+
+#pBody
+	{
+	max-width: 320px;
+	}
+
+.pageHeader
+	{
+	width: 100%;
+	text-align: center;
+	}
+
+.reportBody, #rBody
+	{
+	position: relative;
+	z-index: 0;
+
+	margin-left:auto;
+	margin-right:auto;
+	height: 41.5em;
+	}
+
+/* Person box appearance */
+.box
+	{
+	position: absolute;
+    z-index: -1;
+
+	width: 15em;
+	height: 3.5em;
+	margin: 10px 0px;
+	padding: 2px;
+	
+	-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    border-radius: 3px;
+	}
+
+.male
+	{
+	background-image: url(fillMale.jpg);
+	}
+
+.female
+	{
+	background-image: url(fillFemale.jpg);
+	}
+
+.date
+	{
+	font-size: 0.83em;
+	}
+
+#source .name
+	{
+	font-weight: bold;
+	}
+
+/* Connecting line appearance */
+.connect
+	{
+	position: absolute;
+	z-index: -3;
+
+	padding: 0;
+	margin: 0;
+
+	background: transparent;
+
+	border: 2px solid gray;
+	border-right: none;
+
+	-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    border-radius: 3px;
+	}
+
+/* Spouse & Children dropdown appearance */
+.showSC
+	{
+	font-size: 0.857em;
+	width: 16.4em;
+	height: 1.2em;
+	z-index: -2;
+	background-color: white;
+	color: black;
+    position: absolute;
+	margin: 0px;
+	text-align: right;
+	padding-top: .3em;
+
+	border: 1px solid #ccc;
+	border-top: none;
+	
+	-moz-border-radius: 0px 0px 3px 1px;
+    -webkit-border-radius: 0px 0px 3px 1px;
+    -khtml-border-radius: 0px 0px 3px 1px;
+    border-radius: 0px 0px 3px 1px;
+	}
+
+.showSC a
+	{
+	text-decoration: none;
+	margin-right: 2em;
+	}
+
+.showSC img
+	{
+	width: 12px;
+	height: 8px;
+	}
+
+
+/* Spouse & Children popup menu */
+.scView
+	{
+	padding-bottom: 5px;	
+	font-size: 0.857em;
+	width: 16.4em;
+	height: 10.5em;
+	display: none;
+	z-index: 0;
+	background-color: white;
+
+	border: 1px solid #ccc;
+	border-top: none;
+
+	-moz-border-radius: 0px 0px 3px 3px;
+    -webkit-border-radius: 0px 0px 3px 3px;
+    -khtml-border-radius: 0px 0px 3px 3px;
+    border-radius: 0px 0px 3px 3px;
+    position: absolute;
+
+	-moz-box-shadow: 1px 1px 3px 0px #c4c4c4;
+	-webkit-box-shadow: 1px 1px 3px 0px #c4c4c4;
+	box-shadow: 1px 1px 3px 0px #c4c4c4;
+	}
+
+.scView a
+	{
+	text-decoration: none;
+	display: block;
+	text-align: right;
+	margin-right: 3px;
+	}
+
+.scView img
+	{
+	width: 12px;
+	height: 8px;
+	}
+
+.scView ul
+	{
+	margin: 0px 0px 4px 0px;
+	padding: 0px;
+	}
+
+.scView ul li
+	{
+	text-decoration: none;
+	display: block;
+	margin-bottom: 1px;
+	padding: 5px 0px 5px 3px;
+	}
+
+.scView ul ul li
+	{
+	padding-left: 9px;
+	margin-bottom: 1px;
+	}
+
+.scList
+	{
+	overflow: auto;
+	height: 10.9em;
+	margin: 0px;
+	}
+
+.scList a
+	{
+	text-align: left;
+	}
+
+
+/* Person box locations */
+#source
+	{
+	top: 18em;
+	left: 0.2em;
+	}
+
+#p1, #p2
+	{
+	left: 2em;
+	}
+
+#p1
+	{
+	top: 5.7em;
+	}
+
+#p2
+	{
+	top: 30.6em;
+	}
+
+#gp1, #gp2, #gp3, #gp4
+	{
+	left: 5.8em;
+	}
+
+#gp1
+	{
+	top: 0em;
+	}
+
+#gp2
+	{
+	top: 11.5em;
+	}
+
+#gp3
+	{
+	top: 25em;
+	}
+
+#gp4
+	{
+	top: 36em;
+	}
+
+
+#ggp1, #ggp2, #ggp3, #ggp4, #ggp5, #ggp6, #ggp7, #ggp8
+	{
+	visibility: hidden;
+	}
+
+#ggp1, #gggp1
+	{
+	top: 0em;
+	}
+
+#ggp2, #gggp3
+	{
+	top: 5em;
+	}
+
+#ggp3, #gggp5
+	{
+	top: 11em;
+	}
+
+#ggp4, #gggp7
+	{
+	top: 16em;
+	}
+
+#ggp5, #gggp9
+	{
+	top: 22em;
+	}
+
+#ggp6, #gggp11
+	{
+	top: 27em;
+	}
+
+
+#ggp7, #gggp13
+	{
+	top: 33em;
+	}
+
+#ggp8, #gggp15
+	{
+	top: 38em;
+	}
+
+#gggp1, #gggp2, #gggp3, #gggp4, #gggp5, #gggp6, #gggp7, #gggp8, #gggp9, #gggp10, #gggp11, #gggp12, #gggp13, #gggp14, #gggp15, #gggp16
+	{
+	visibility: hidden;
+	}
+
+#gggp2
+	{
+	top: 2em;
+	}
+
+#gggp4
+	{
+	top: 7em;
+	}
+
+#gggp6
+	{
+	top: 13em;
+	}
+
+#gggp8
+	{
+	top: 18em;
+	}
+
+#gggp10
+	{
+	top: 24em;
+	}
+
+#gggp12
+	{
+	top: 29em;
+	}
+
+#gggp14
+	{
+	top: 35em;
+	}
+
+#gggp16
+	{
+	top: 40em;
+	}
+
+
+/* Connecting line locations */
+#cnct1
+	{
+	top: 8em;
+	left: 0.5em;
+	height: 25em;
+	width: 3.5em;
+	}
+
+#cnct2, #cnct3
+	{
+	left: 3em;
+	height: 11em;
+	width: 3em;
+	}
+
+#cnct2
+	{
+	top: 2.5em;
+	}
+
+#cnct3
+	{
+	top: 27.5em;
+	}
+
+#cnct4, #cnct5, #cnct6, #cnct7
+	{
+	visibility: hidden;
+	}
+
+#cnct4
+	{
+	top: 1.8em;
+	}
+
+#cnct5
+	{
+	top: 12.8em;
+	}
+
+#cnct6
+	{
+	top: 23.75em;
+	}
+
+#cnct7
+	{
+	top: 34.7em;
+	}
+
+
+/* Spouse & Children dropdown locations */
+#sourceSC, #sourceShowSC
+	{
+	top: 26.1em;
+	left: 1.2em;
+	}
+
+#p1SC, #p1ShowSC, #p2SC, #p2ShowSC
+	{
+	left: 3em;
+	}
+
+#p1SC, #p1ShowSC
+	{
+	top: 11.8em;
+	}
+
+#p2SC, #p2ShowSC
+	{
+	top: 40.7em;
+	}
+
+#gp1SC, #gp1ShowSC, #gp2SC, #gp2ShowSC, #gp3SC, #gp3ShowSC, #gp4SC, #gp4ShowSC
+	{
+	left: 7.5em;
+	}
+
+div#gp1SC, div#gp1ShowSC
+	{
+	top: 5.2em;
+	}
+
+#gp2SC, #gp2ShowSC
+	{
+	top: 18.6em;
+	}
+
+#gp3SC, #gp3ShowSC
+	{
+	top: 34.2em;
+	}
+
+#gp4SC, #gp4ShowSC
+	{
+	top: 46.9em;
+	}
+
+@media all and (min-width: 375px)
+	{
+	#pBody
+		{
+		max-width: 375px;
+		}
+
+	#p1, #p2
+		{
+		left: 5em;
+		}
+
+	#gp1, #gp2, #gp3, #gp4
+		{
+		left: 9.5em;
+		}
+
+	#p1SC, #p1ShowSC, #p2SC, #p2ShowSC
+		{
+		left: 6.5em;
+		}
+
+	#gp1SC, #gp1ShowSC, #gp2SC, #gp2ShowSC, #gp3SC, #gp3ShowSC, #gp4SC, #gp4ShowSC
+		{
+		left: 11.5em;
+		}
+
+	#cnct1
+		{
+		left: 2em;
+		width: 3.5em;
+		}
+
+	#cnct2, #cnct3
+		{
+		left: 7em;
+		width: 3em;
+		}
+	}
+
+@media all and (min-width: 414px)
+	{
+	#pBody
+		{
+		max-width: 414px;
+		}
+
+	#p1, #p2
+		{
+		left: 6em;
+		}
+
+	#gp1, #gp2, #gp3, #gp4
+		{
+		left: 12em;
+		}
+
+	#p1SC, #p1ShowSC, #p2SC, #p2ShowSC
+		{
+		left: 7.5em;
+		}
+
+	#gp1SC, #gp1ShowSC, #gp2SC, #gp2ShowSC, #gp3SC, #gp3ShowSC, #gp4SC, #gp4ShowSC
+		{
+		left: 14.5em;
+		}
+
+	#cnct1
+		{
+		left: 2em;
+		width: 4em;
+		}
+
+	#cnct2, #cnct3
+		{
+		left: 8em;
+		width: 4em;
+		}
+	}
+
+
+/* show generation 3 with normal spacing */
+@media all and (min-width: 525px)
+	{
+	.reportBody, #rBody
+		{
+		height: 43.5em;
+		}
+
+	#pBody
+		{
+		max-width: 510px;
+		}
+
+	#source
+		{
+		top: 19em;
+		left: 0.8em;
+		}
+
+	#p1, #p2
+		{
+		left: 7em;
+		}
+
+	#p1
+		{
+		top: 8em;
+		}
+
+	#p2
+		{
+		top: 30em;
+		}
+
+	#gp1, #gp2, #gp3, #gp4
+		{
+		left: 18em;
+		}
+
+	#gp1
+		{
+		top: 2.5em;
+		}
+
+	#gp2
+		{
+		top: 13.5em;
+		}
+
+	#gp3
+		{
+		top: 24.5em;
+		}
+
+	#gp4
+		{
+		top: 35.5em;
+		}
+	
+	#gp1SC, #gp1ShowSC, #gp2SC, #gp2ShowSC, #gp3SC, #gp3ShowSC, #gp4SC, #gp4ShowSC
+		{
+		left: 21.7em;
+		}
+
+	div#gp1SC, div#gp1ShowSC
+		{
+		top: 8.14em;
+		}
+
+	#gp2SC, #gp2ShowSC
+		{
+		top: 20.94em;
+		}
+
+	#gp3SC, #gp3ShowSC
+		{
+		top: 33.74em;
+		}
+
+	#gp4SC, #gp4ShowSC
+		{
+		top: 46.64em;
+		}
+		
+	/*Connecting Lines*/
+	#cnct1
+		{
+		top: 11em;
+		left: 5em;
+		height: 21em;
+		width: 3.5em;
+		}
+
+	#cnct2, #cnct3
+		{
+		left: 16em;
+		height: 10em;
+		width: 3em;
+		}
+
+	#cnct2
+		{
+		top: 5.8em;
+		}
+
+	#cnct3
+		{
+		top: 27.5em;
+		}
+	
+	/*Drop-down Positioning*/
+	#sourceSC, #sourceShowSC
+		{
+		top: 27.34em;
+		left: 1.6em;
+		}
+
+	#p1SC, #p1ShowSC, #p2SC, #p2ShowSC
+		{
+		left: 9em;
+		}
+		
+	#p1SC, #p1ShowSC
+		{
+		top: 14.54em;
+		}
+
+	#p2SC, #p2ShowSC
+		{
+		top: 40.24em;
+		}
+	}
+
+/* show generation 4 */
+@media all and (min-width: 768px)
+	{
+	#pBody
+		{
+		max-width: 760px;
+		}
+	
+	#ggp1, #ggp2, #ggp3, #ggp4, #ggp5, #ggp6, #ggp7, #ggp8
+		{
+		visibility: visible;
+		
+		left: 34em;
+		}
+		
+	#cnct4, #cnct5, #cnct6, #cnct7
+		{
+		visibility: visible;
+		left: 33em;
+		height: 6.5em;
+		width: 3em;
+		}
+	}
+
+/* show generation 5 */
+@media all and (min-width: 1000px)
+	{
+	#pBody
+		{
+		max-width: 1000px;
+		}
+
+	#gggp1, #gggp2, #gggp3, #gggp4, #gggp5, #gggp6, #gggp7, #gggp8,
+	#gggp9, #gggp10, #gggp11, #gggp12, #gggp13, #gggp14, #gggp15, #gggp16
+		{
+		visibility: visible;
+
+		height: 1.5em;
+		left: 50em;
+		}
+	}
