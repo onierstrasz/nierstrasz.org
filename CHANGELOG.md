@@ -14,3 +14,4 @@
 - Added `_pages` folder and first landing page; removed default `index.html`
 - Copied WebCards to Tree folder
 - Removed `Recent posts` from the home layout
+- Disabled url underlines in _page.scss
