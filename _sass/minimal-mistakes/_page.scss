@@ -20,6 +20,12 @@
 }
 
 body {
+
+	a {
+		text-decoration: none !important;
+	}
+
+
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -129,13 +135,9 @@ body {
     }
   }
 
-  a {
-    text-decoration: none !important;
-  }
-
   a:not(.btn) {
     &:hover {
-	  text-decoration: none !important;
+      text-decoration: underline;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
