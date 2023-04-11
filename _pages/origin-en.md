@@ -1,12 +1,14 @@
 ---
 title: "About the origin of the Nierstraß family in Eschweiler"
-permalink: /origin
+permalink: /origin-en
 ---
 
-*Aus Mitteilungen der Westdt. Gesellschaft für Familienkunde 1935.*
+*From Mitteilungen der Westdt. Gesellschaft für Familienkunde 1935.*
 
-The following text has been transcribed from the document [“Die Stammeltern des reformierten Geschlechts Nierstrasz in Eschweiler”](/assets/sources/StammelternNierstrass-HeinrichMuellers.pdf) by Heinrich Müllers, Frankfurt Main.
+The text has been transcribed from the original document [“Die Stammeltern des reformierten Geschlechts Nierstrasz in Eschweiler”](/assets/sources/StammelternNierstrass-HeinrichMuellers.pdf) by Heinrich Müllers, Frankfurt Main.
 Thanks to Kurt Nacken for the source material.
+
+**NB:** The following text has been translated to English with the help of [deepl](https://www.deepl.com/translator) from the [German version of this document](/origin).
 
 All efforts have been made to transcribe the text as faithfully as possible from the original (in Old German font).
 I would nevertheless be grateful for any corrections. 
@@ -16,18 +18,20 @@ As the text explains, the original sources conflict concerning not only the spel
 
 The “infinity symbol” (used to indicate marriage events) is transcribed here as a percent sign (“∞”). I assume that * indicates a birth date, and (*) a baptism.
 
-# Die Stammeltern des reformierten Geschlechts Nierstrasz in Eschweiler
+# The Progenitors of the Reformed Nierstrasz Family in Eschweiler
 
-Von Heinrich Müllers, Frankfurt Main
+By Heinrich Müllers, Frankfurt Main
 
 ## 1.
 
-Eine Stammliste der bisher bekannten drei ältesten Generationen, zusammengestellt „nach den Kirchenbüchern in Eschweiler und alten Nierstraßichen Aufzeichnungen“, teilte mir Frl. Dr. Rübens in Rodenkirchen bei Köln wie folgt mit:
+A genealogical list of the three oldest generations known so far, compiled "according to the church records in Eschweiler and old Nierstrass records", informed me of Dr. Rübens in Rodenkirchen near Cologne as follows:
 
 ### I. Leonhardt Nierstraß
-reformiert; * ....., † ..... (vor 1650), Färbereibesitzer zu Eschweiler.
+Reformed; * ....., † ..... (before 1650), owner of a dye works in Eschweiler.
 
-Kinder, zu Eschweiler geboren und ebend (ref.) getauft:
+Children, born in Eschweiler and baptised just now (ref.):
+
+# CONTINUE HERE
 
 1. Johannes (*) 1. 1. 1622, s. IIa.
 2. Isaak (*) 27. 4. 1627, s. IIb.
