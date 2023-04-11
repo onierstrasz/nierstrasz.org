@@ -1,5 +1,5 @@
 ---
-title: “About the name Nierstraß”
+title: "About the name Nierstraß"
 permalink: /nierstrass
 ---
 

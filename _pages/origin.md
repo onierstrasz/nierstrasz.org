@@ -1,5 +1,5 @@
 ---
-title: “About the origin of the Nierstraß family in Eschweiler”
+title: "About the origin of the Nierstraß family in Eschweiler"
 permalink: /origin
 ---
 
