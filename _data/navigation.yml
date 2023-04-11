@@ -2,11 +2,7 @@
 main:
   - title: "Family tree"
     url: /Tree/wc_toc.html
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About Nierstraß"
+    url: /nierstrass
+  - title: "Sitemap"
+    url: /sitemap/
