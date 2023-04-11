@@ -285,7 +285,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false # generate page share links on social media at end
       related: true
       sidebar:
         - title: # "A title"
