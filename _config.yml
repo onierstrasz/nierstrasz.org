@@ -129,6 +129,13 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+sidebar:
+  - title: "Nierstrasz Family website"
+    image: /assets/images/crest-small.jpg
+    text: "some sample text"
+  - title: "another title"
+    text: "more text"
+
 # Site Footer
 footer:
   links:
