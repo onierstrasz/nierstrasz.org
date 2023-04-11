@@ -3,8 +3,48 @@ title: "About the Nierstrasz Coat of Arms"
 permalink: /crest
 ---
 
+# TO DO
 
-Test of a table with images.
+Edit and add photos.
+
+---
+
+
+Over the years there has been considerable disagreement concerning the Nierstrasz coat of arms.
+The one shown at left (shown in the Nederlands' Patriciaat of 1924) was apparently used by Jacob (1670-1751) and his (German) descendants.
+Hendrik (the former mayor of Maastricht) (1773-1855), however, used a different one with three clover-leaves above a "hat of peace".
+Perhaps some of the confusion can be attributed to the gravestone at right (near Aachen).
+Apparently the clover-leaf crest originates from the Peltzer family, whereas the falling pigeon crest comes from the Nierstrasz family.
+
+ 
+see details
+
+
+
+
+The Nederlands' Patriciaat of 1924 is unambiguous, and describes the coat-of-arms as a blue dove, flying downwards on a silver background:
+
+NIERSTRASZ, Protestant, Wapen: In zilver een vliegende blauwe duif, de kop omlaag, paalsgewijze gesteld.
+Helmteeken: de duif van het schild tusschen een zilver-blauwe vlucht.
+Dekkleeden: zilver en blauw.
+Genealogie.
+(Sedert de vestiging in Nederland.) ... Het geslacht heeft waarschijnlijk te Keulen zijn bakermat.
+
+A letter from the NP, dated 1925-04-29, Louise de Colignystraat 152, 's-Gravenhage, apparently to my grandfather, Deonisius Marius Nierstrasz (1889-1956), discusses the two coats-of-arms and points out that the dove motif appears on the gravestone of a Nierstrasz buried in Cologne.
+The Prof N referred to is possibly Hugo Fredrik N (1872-1935), a zoologist who specialized in molluscs, and who possibly was responsible for the genealogy in the NP of 1924.
+
+Weledelgeb. Heer! In antwoort op uwe geachte letteren van 28 dezer, deelen wij U het volgende mede.
+Het wapen waarvan U ons een afdruk zondt [i.e., with the hat and clover leaves] was ons bekend, doch wij betwijfelen of dit het juiste is.
+Wij hadden in onze collectie het duif-wapen en ... op den zerk te Keulen staat hetzelfde duif-wapen.
+Op grond daarvan hebben wij den Prof. N. aangeraden dit wapen te doen afbeelden.
+De genealogie die Prof. N. bezat bevatte nog niet de helft, misschien zelfs geen derde van wat wij samenbrachten.
+Zeer zouden wij het op prijsstellen als U ons hoogere generatien zoudt kunnen bezorgen.
+U duidt het ons niet euvel als wij voorloopig althansz niet aan een Hongaarsche origine geloof hechten.
+Gaarne uw antwoord tegemoetziende.
+Hoogachtend D.G. van Epen
+Various branchesof the Nierstrasz family have used variants of the Peltzer crest, however:
+
+
 
 | JLN gravestone | CJN gravestone | Peltzer letter seal |
 | --- | --- | --- |
@@ -12,3 +52,173 @@ Test of a table with images.
 | Gravestone of Johannes Leonardus Nierstrasz (1824-1878) and Maria Elisabeth Margaretha van Voorst van Beest (1936-1916) | Gravestone of Cornelis Johannes Nierstrasz (1873-1921) | Letter seal ostensibly bearing the Nierstrasz coat-of-arms; actually Peltzer |
 
 
+
+
+
+[photo Benjamin Wesseling]
+
+
+
+Letter seal ostensibly bearing the Nierstrasz coat-of-arms; actually Peltzer
+
+[photo omn]
+
+ 
+
+Hendrik Johannes Nierstrasz (1881-1956), a third cousin of my grandfather, corresponded with DMN concerning the origins of the family and the coat-of-arms, and came to the conclusion that the downard-flying dove was the more authentic one.
+The three letters below detail his research into the origin of the family and the coat-of-arms.
+
+
+
+This letter from H. J. Nierstrasz, Haag 1927-01-06, to DMN reports first on a reproduction of a document signed by Hendrik Nierstrasz (1773-1855), notary public and later mayor of Maastricht, also great grandfather of DMN and great grand-uncle of HJN, which shows the coat-of-arms in the seal.
+Second, he mentions his failed efforts to track down Nierstrasz gravestones in Cologne.
+
+Zeer geachte Heer Nierstrasz!
+
+... In gesloten de beloofde reproduktie van een akte van notaris H. Nierstrasz uit het jaar 1793.
+Het was het eenigste exemplaar, dat zijn zegel (ongeschonden bovendien) vertooonde.
+In de Franschen tijd [i.e., afterwards] werden stukken uitsluitend met het regeeringszegel voorzien.
+Ik zend U twee afdrukken, 1 op hardwerkend papier en 1 op medium.
+Op het laatste komen de stukken van het wapen door het geringere contrast beter uit.
+[We only have one of these two.] Zooals uit de akte blijkt, verklaart notaris Nz daarin het zegel als het zijne.
+Of hiermede nu bewezen is, dat dit zijn familiewapen is, blijft de vraag.
+Ik zal nog eens in de Kon. Bibliotheek snuffelen of ik hierover iets kan vinden.
+In "Rietstap" komt geen beschrijving voor.
+Het onderzoek heeft, zooals U gemerkt zult hebben, veel stagnatie ondervonden.	
+... Intussen was ik, daar ik toch voor onze Toko [Indonesian name for a shop] naar München en Keulen moest, ook eens in Aachen gaan kijken.
+Ik kon alleen vaststellen dat noch in Keulen noch in Aachen thans leden van onze familie wonen.
+[A later letter contradicts this] Ook de beroemde grafsteen die het familiewapen zou vertonen, heb ik niet kunnen vinden, ofschoon ik alle protestantsche kerken heb afgezocht.
+In den Dom in Keulen zijn natuurlijk geen protestanten begraven.
+Ook in Maastricht kon ik die steen niet vinden.
+De grafsteenen op het kerkhof (dat sedert 1800 in gebruik is) waren tijdens de kerstdagen bijna alle onder gesneeuwd en ik had geen bezem bij me.
+De commies van het Rijksarchief zal echter zoo vriendelijk zijn hiernaar een onderzoek in te stellen.
+U ziet wel, dat de zaak mij nu ook interesseert.
+
+... Met hartelijk groeten H.J. Nierstrasz Larixlaan 97
+
+
+
+This second letter from HJN to DMN is dated Berlin 1927-01-09, 3 days after previous letter.
+It claims that the Nierstrasz family, originating in Eschweiler, near Geilenkirchen, used the coat-of-arms with the dove, and that this motif was "bastardized" in Holland.
+He gives (without indication of his source) a German description of the coat-of-arms, and another description in French.
+
+Zeer geachte Heer Nierstrasz!
+
+... [repeats information that only Catholics were buried in the cathedral in Cologne.
+If there were Catholics in the Nz family, it must have been before 1600.]
+
+In ieder geval heeft de protestante tak uit Eschweiler het wapen met de duif gevoerd.
+Dit wapen is vermoedelijk in Holland verbasterd en ik zou eens willen weten wie dat op z'n geweten heeft.
+De Duitsche beschrijving van het wapen luidt als volgt:
+
+"Eine stürzende Taube, mit einer Traube; auf dem Helm die Taube sitzend mit der Taube."
+
+De afbeelding vertoonde de duif schuin naar beneden vliegend met een trosje druiven in den bek.
+Op den helm, de duif zittend met een trosje druiven.
+
+Rietstap geeft de volgende beschriving
+
+"Une colombe, la tête en bas, les ailes étendues."
+
+Hiermede heeft hij dus niet gezegt, dat de duif loodrecht naar beneden vliegt.
+Van het trosje druijven spreekt R. niet, ook het helmsieraad beschrift hij niet.
+Ik zal nu toch eens trachten uit te visschen of een van onze voorvaderen het wapen veranderd heeft, of dat dit door 'n buitenlander gedaan is.
+In het laatste geval is de Duitsche beschrijving goed.
+
+Verder is niet de vader van de notaris maar diens grootvader in 1775 in Maastricht begraven.
+[According to NP 1924, the grandfather died in 1762; the grandmother in 1775] Niet in de St. Janskerk, want dat heb ik vers onderzocht.
+Waar dan wel zal de commies van het Rijksarchief nog trachten vast te stellen.
+
+... Met hartelijk groeten H.J. Nierstrasz
+
+
+
+
+
+The third letter from HJN to DMN is dated a decade later, Wassenaar 1937-11-06, and mentions photos he has taken of the town, Nierstraß.
+He reports what he has learned of the history of the land.
+He mentions the photo of the gravestone of Jacobus N (1670-1751), which he has had published in the NP 1928.
+Here he explains that Jacobus was also the father of Anna Maria N, married to Simon Peltzer (whose gravestone was the source of the confusion).
+The daughter of Theodor N [?], also married to a Peltzer, and also buried in Stolberg, had a similar coat-of-arms, with a downward-flying dove with grapes in its beak.
+The Peltzer family had a genealogy prepared by a certain Macco, in Aachen, which HJN used to update the N family tree.
+
+Beste Dick!
+
+... Ik heb toen ook het gehucht Nierstrass bezocht en er zelfs kiekjes gemaakt.
+Na lang zoeken vond ik eindelijk de negatieven weer en zend je hierbij een afdruk.
+Wij behoeven dus niet meer heen te gaan.
+
+... In je brief spreek je van de heerlijkheid Nierstrass, het geen niet juist is.
+Dit was wel het geval met het vlak daarbij gelegen Müncherath.
+Deze heerlijkheid heette vroeger alleen "Rode" [?] (is gerooid bosch) [=clearcut forest] tot zij in de handen viel van de Monnikken van Heinsberg (niet Eschweiler) en van toen af Müncherath genoemd werd.
+Bij Müncherath behoorde ook de "Nederstraisze" (laag gelegen weg).
+Het gehucht Nierstrass is door verkoop van stukken land van Müncherath ontstaan.
+
+Het op de kaart voorkomende Eschweiler is niet het stadje waar onze voorvader Leonard Nierstrass omstreeks 1620 een "Tuchfärberei" begon.
+Dit Eschweiler ligt bij Aachen.
+
+Mijn exemplaar Nederl.
+Patriciaat 1928 heb ik uitgeleend en natuurlijk nog niet teruggekregen.
+Je kunt het echter in het Rijksarchief te Maastricht ter inzage krijgen.
+Ik heb er destijds ook 'n foto van den grafzerk van Jacobus Nierstrass (gestorven in Keulen) waarop ons wapen met de duif voorkomt, in laten opnemen.
+Dit in verband met het feit, dat in onze familie minstens 3 wapens voorkomen, hetgeen belachelijk is.
+
+
+
+ 
+
+NP 1928, p 122.
+De hiernevens afgebeelde grafzerk bevindt zich op het kerkhof te Sülz bij Keulen.
+De Jacobus Nierstrasz hierop vermeld was zoon van Abraham Nierstrasz, en kleinzoon van den stamvader Leonard.
+Zie Macco, t. a. p. (Medegedeeld door H. J. Nierstrasz, te 's-Gravenhage.)
+ 
+
+Jacobus Nierstrass had o.a. (hij heeft 10 kinderen gehad) een dochter Anna Maria, die met Simon Peltzer trouwde.
+Hun graf bevind zich op het kerkhof van Stolberg (bij Aachen).
+Ook de op dit grad geplaatste zerk werd gefotografeerd; hierbij een reproduktie van de foto.
+
+Zooals je ziet, staat de duif niet loodrecht met de kop naar beneden, doch schuin.
+
+Dit was ook het geval met het wapen van Theodor Nierstrasz [born ca 1653] uit Aachen, wiens dochter [Johanna Katharina] eveneens met een Peltzer [Diederich] getrouwd was.
+De duif in dit wapen heeft bovendien een trosje druiven in den bek.
+Het helmsieraad is eveneens de duif met het trosje druiven doch zittend.
+Haar grafsteen ligt ook op het kerkhof van Stolberg.
+Dergeleijke "varianten" komen in de heraldiek wel voor en zijn ook geoorloofd.
+Het aanbrengen van andere wapenfiguren echter niet.
+Hoe zou anders de uitdrukking "in zijn schildvoeren" ["carrying in your coat of arms", meaning doing something underhanded?] reden van bestaan kunnen hebben?
+
+De familie Peltzer heeft door den heraldicus en genealoog Macco uit Aachen een genealogie laten maken.
+Hierin is ook een kleine genealogie van onze familie opgenomen.
+In het stadtarchiv van Aachen werd ik hierop attent gemaakt.
+In genoemde archief heb ik toen ook de aansluiting op onze genealogie tot stand gebracht.
+Eigenaardig is het, dat Jacobus Nierstras [sic] en zijn nakomelingen waarvan er nog in Keulen wonen, [NB contradicting earlier letter of 1927] hun naam zonder "z" schreven.
+Hiermede heb ik, naar ik hoop, je nieuwsgierigheid naar onze afstamming en het ontstaan van de naam, voldoende bevredigt.
+
+... Henk [i.e. Hendrik]
+
+The following excerpt is from a letter (1999-09-21) by Emile Nierstrasz (my third cousin, and great great great grandson of Hendrik), which also mentions the photograph of the document signed by the notary-public Hendrik.
+(The "dead pigeon" is the downward-flying dove, which on Jacobus' gravestone above, looks more like a dead pigeon!) The letter mentions yet another coat-of-arms!
+
+...
+
+The coat of arms of our common ancestor Hendrik b.1773 d.1855 (Maastricht) is three clover-leaves above a "hat of peace".
+The crest is a clover-leaf.
+In the archives of Maastricht I found it as a seal on an official document (last will).
+I have a very bad picture of the same document made by your grandfather as I was told.
+Nevertheless your father told me in 1954 that he had chosen for the dead pigeon, because it is the oldest known coat of arms of a Nierstrasz (Jacob b.1670 d.1751 see above) and he showed me his ring.
+The dead pigeon is used by the German descendants of Abraham and Jacob, while there is an other coat of arms used by an other branch of the family in Germany.
+This one is something with flames and a bird and I believe it is a variation on the one of a female ancestor of this family branch.
+I forgot which family.
+The descendants of Johannus Leonardus Nierstrasz bd.1762 d.1838 (Rotterdam) have their own coat of arms, so there are at least 4 types (two in Germany and two in the Netherlands).
+
+In 1956 Charlotte Aldegonda Nierstrasz, daughter of Hendrik Jan Emile and granddaughter of Emile Chrétien, gave me the stamp to seal of Emile Chrétien, which has the coat of arms of Hendrik.
+This coat of arms is used by my family and my sisters.
+I don't know what the other descendants of Hendrik do.
+
+...
+
+Benjamin Nierstrasz (fourth cousin to both me and Emile, and also great great great grandson of Hendrik) has, however, adopted the dove as his letterhead.	
+These are all the samples of Nierstrasz coats-of-arms and their stories I have collected so far.
+
+Back to: Nierstrasz Family Web	
+Last updated: 2002-09-25
