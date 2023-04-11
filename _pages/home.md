@@ -11,7 +11,7 @@ The information here has been cobbled together from various sources. (See the fa
 - [Nierstrasz-Hahn-Margiotta family tree](/Tree/wc_toc.html)
 - [About the name "Nierstraß"](/nierstrass)
 - [About the origin of the Nierstrasz family](/origin) (in German and [English](/origin-en))
-- About the Nierstrasz coat-of arms
+- [About the Nierstrasz coat-of arms](/crest)
 - Register Reports (RTF)
 	- Nierstrasz Register Report
 	- Hahn Register Report
