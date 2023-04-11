@@ -3,7 +3,7 @@ title: "About the name Nierstraß"
 permalink: /nierstrass
 ---
 
-![Angela, Frida and Oscar, July 6, 2014](/assets/images/Nierstrass/Nierstrass-2014.jpg)
+![Nierstrass, 1937](/assets/images/Nierstrass/Nierstrass-1937.jpg)
 
 ”Nierstraß” is [a small town about 20 km. north of Aachen](https://goo.gl/maps/jtZpWQ1rht66TfQR6), Germany.
 
@@ -15,4 +15,4 @@ The earliest known person who used “Nierstraß” as a family name was Leonard
 
 Leonard's great-great gandson, Johann Leonard (1734-1813) became a citizen of Maastricht in 1813, and his son Hendrik (1773-1855) was mayor of Maastricht from 1835-1850.
 
-![Nierstrass, 1937](/assets/images/Nierstrass/Nierstrass-1937.jpg)
+![Angela, Frida and Oscar, July 6, 2014](/assets/images/Nierstrass/Nierstrass-2014.jpg)
