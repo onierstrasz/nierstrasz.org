@@ -33,6 +33,12 @@ The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous,
 > Genealogie.
 > (Sedert de vestiging in Nederland.) ... Het geslacht heeft waarschijnlijk te Keulen zijn bakermat.
 
+> NIERSTRASZ, Protestant, Coat of arms: in silver a flying blue dove, head down, set in pile.
+> Helmet sign: the dove of the shield between a flight of silver and blue.
+> Garments: silver and blue.
+> Genealogy.
+> (Since its establishment in the Netherlands.) ... The lineage probably had its birthplace at Cologne.
+
 A letter from the NP, dated 1925-04-29, Louise de Colignystraat 152, 's-Gravenhage, apparently to my grandfather, Deonisius Marius Nierstrasz (1889-1956), discusses the two coats-of-arms and points out that the dove motif appears on the gravestone of a Nierstrasz buried in Cologne.
 The Prof N referred to is possibly Hugo Fredrik N (1872-1935), a zoologist who specialized in molluscs, and who possibly was responsible for the genealogy in the NP of 1924.
 
