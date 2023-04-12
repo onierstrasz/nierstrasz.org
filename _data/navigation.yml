@@ -4,6 +4,8 @@ main:
     url: /tree
   - title: "About Nierstraß"
     url: /nierstrass
+  - title: "Sources"
+    url: /sources
   - title: "Sitemap"
     url: /sitemap/
 
