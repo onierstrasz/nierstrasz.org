@@ -1,6 +1,7 @@
 ---
 title: "Test page"
 permalink: /test
+layout: test
 ---
 
 Old version with equal text
