@@ -305,4 +305,8 @@ Benjamin Nierstrasz (fourth cousin to both me and Emile, and also great great gr
 
 ---
 
+Since then I have discovered that the “dove descending” is a [Christian symbol of the Holy Spirit](https://en.wikipedia.org/wiki/Sign_of_the_Dove).
+
+---
+
 These are all the samples of Nierstrasz coats-of-arms and their stories I have collected so far.
