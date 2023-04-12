@@ -40,8 +40,6 @@ The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous,
 > Genealogy.
 > (Since its establishment in the Netherlands.) ... The lineage probably had its birthplace at Cologne.
 
-## CONTINUE HERE
-
 A [letter from the NP](/assets/sources/NPLetter1925-04-25.pdf), dated 1925-04-29, Louise de Colignystraat 152, 's-Gravenhage, apparently to my grandfather, Deonisius Marius Nierstrasz (1889-1956), discusses the two coats-of-arms and points out that the dove motif appears on the gravestone of a Nierstrasz buried in Cologne.
 The Prof. N. referred to is possibly [Hugo Fredrik N.](https://de.wikipedia.org/wiki/Hugo_Frederik_Nierstrasz) (1872-1935), a zoologist who specialized in molluscs, and who possibly was responsible for the genealogy in the NP of 1924.
 
@@ -55,7 +53,17 @@ The Prof. N. referred to is possibly [Hugo Fredrik N.](https://de.wikipedia.org/
 > Gaarne uw antwoord tegemoetziende.
 > Hoogachtend D.G. van Epen
 
----
+> Dear Sir! In answer to your kind letters of 28th December, we inform you of the following.
+> The coat of arms of which you sent us a print [i.e., with the hat and clover leaves] was known to us, but we doubt whether this is the correct one.
+> We had the dove coat of arms in our collection and ... The Cologne tombstone bears the same dove crest.
+> On this basis, we advised Prof. N. to have this coat of arms depicted.
+> The genealogy Prof. N. possessed contained less than half, maybe not even a third, of what we compiled.
+> We would greatly appreciate it if you could provide us with higher generations.
+> Please forgive us if we do not believe in Hungarian origins, at least for the time being.
+> We look forward to your reply.
+> Yours sincerely D.G. van Epen
+
+# CONTINUE HERE
 
 Various branches of the Nierstrasz family have used variants of the Peltzer crest, however:
 
