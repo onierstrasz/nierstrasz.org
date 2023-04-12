@@ -49,6 +49,18 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  
+  .footer-left {
+    display: block;
+    float: left;
+    margin-left: 5px;
+  }
+
+  .footer-right {
+    display: block;
+    float: right;
+    margin-right: 10px;
+  }
 }
 
 .page__footer-follow {
@@ -81,18 +93,6 @@
     a {
       white-space: nowrap;
     }
-  }
-  
-  .footer-left {
-    display: block;
-    float: left;
-    margin-left: 5px;
-  }
-
-  .footer-right {
-    display: block;
-    float: right;
-    margin-right: 10px;
   }
 }
 
