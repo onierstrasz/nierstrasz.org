@@ -3,6 +3,15 @@ title: "Test page"
 permalink: /test
 ---
 
+Old version with equal text
+
+| JLN gravestone | CJN gravestone | Peltzer letter seal |
+| --- | --- | --- |
+| [![JLN gravestone](/assets/images/Crest/jln_vanvoorst.jpg)](/Crest/jln-gravestone) | [![CJN gravestone](/assets/images/Crest/cjn1873_1921.jpg)](/Crest/cjn-gravestone) | [![Peltzer letter seal](/assets/images/Crest/peltzer_seal.jpg)](/Crest/peltzer-seal) |
+| xyz | xyz | xyz |
+
+
+
 Test with similar sized text
 
 | [![JLN gravestone](/assets/images/Crest/small/jln_vanvoorst-small.jpg)](/Crest/jln-gravestone) | [![CJN gravestone](/assets/images/Crest/small/cjn1873_1921-small.jpg)](/Crest/cjn-gravestone) | [![Peltzer letter seal](/assets/images/Crest/small/peltzer_seal-small.jpg)](/Crest/peltzer-seal) |
