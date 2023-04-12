@@ -26,7 +26,9 @@ Apparently the clover-leaf crest originates from the Peltzer family, whereas the
 ---
 # Nederlands' Patriciaat, 1924
 
-The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous, and describes the coat-of-arms as a blue dove, flying downwards on a silver background:
+The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous, and describes the coat-of-arms as a blue dove, flying downwards on a silver background.
+
+*NB:* for each source, we provide a PDF, a transcription, and a translation to English.
 
 > NIERSTRASZ, Protestant, Wapen: In zilver een vliegende blauwe duif, de kop omlaag, paalsgewijze gesteld.
 > Helmteeken: de duif van het schild tusschen een zilver-blauwe vlucht.
@@ -63,15 +65,16 @@ The Prof. N. referred to is possibly [Hugo Fredrik N.](https://de.wikipedia.org/
 > We look forward to your reply.
 > Yours sincerely D.G. van Epen
 
-# CONTINUE HERE
+# Letters from HJN to DMN
 
-Various branches of the Nierstrasz family have used variants of the Peltzer crest, however:
+Neverthless, various branches of the Nierstrasz family have used variants of the Peltzer crest.
 
 | [![JLN gravestone](/assets/images/Crest/small/jln_vanvoorst-small.jpg)](/Crest/jln-gravestone) | [![CJN gravestone](/assets/images/Crest/small/cjn1873_1921-small.jpg)](/Crest/cjn-gravestone) | [![Peltzer letter seal](/assets/images/Crest/small/peltzer_seal-small.jpg)](/Crest/peltzer-seal) |
 | --- | --- | --- |
 | Gravestone of JLN (1824-1878) and MvVvB  (1936-1916)   | Gravestone of Cornelis Johannes Nierstrasz (1873-1921)  | Letter seal with Paltzer coat-of-arms (not Nierstrasz) |
 
----
+
+# CONTINUE HERE
 
 Hendrik Johannes Nierstrasz (1881-1956), a third cousin of my grandfather, corresponded with DMN concerning the origins of the family and the coat-of-arms, and came to the conclusion that the downard-flying dove was the more authentic one.
 The three letters below detail his research into the origin of the family and the coat-of-arms.
@@ -107,7 +110,7 @@ Second, he mentions his failed efforts to track down Nierstrasz gravestones in C
 > ... Enclosed please find the promised reproduction of a deed of notary H. Nierstrasz from the year 1793.
 > It was the only copy showing his seal (intact moreover).
 > In the French era [i.e., afterwards] documents were exclusively provided with the government seal.
-> I send you two prints, one on hardback paper and one on medium paper.
+> I send you two prints, one on stiff paper and one on medium paper.
 > On the latter, the parts of the coat of arms come out better because of the lower contrast.
 > [We only have one of these two.] As the deed shows, notary Nz therein declares the seal to be his.
 > Whether this proves that this is his coat of arms remains to be seen.
