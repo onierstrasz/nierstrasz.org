@@ -13,7 +13,7 @@ Link to the [original page](https://www.nierstrasz.org/Crest/crest.html).
 ---
 
 
-|[![Nierstrasz coat of arms](/assets/images/Crest/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms)|[![Peltzer gravestone](/assets/images/Crest/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone)|
+|[![Nierstrasz coat of arms](/assets/images/Crest/small/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms)|[![Peltzer gravestone](/assets/images/Crest/small/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone)|
 |---|---|
 |Nierstrasz coat-of-arms|Gravestone of Simon Peltzer and Anna Maria Nierstras|
 
@@ -52,13 +52,12 @@ The Prof N referred to is possibly Hugo Fredrik N (1872-1935), a zoologist who s
 > Gaarne uw antwoord tegemoetziende.
 > Hoogachtend D.G. van Epen
 
-Various branchesof the Nierstrasz family have used variants of the Peltzer crest, however:
+Various branches of the Nierstrasz family have used variants of the Peltzer crest, however:
 
-| JLN gravestone | CJN gravestone | Peltzer letter seal |
+| [![JLN gravestone](/assets/images/Crest/small/jln_vanvoorst-small.jpg)](/Crest/jln-gravestone) | [![CJN gravestone](/assets/images/Crest/small/cjn1873_1921-small.jpg)](/Crest/cjn-gravestone) | [![Peltzer letter seal](/assets/images/Crest/small/peltzer_seal-small.jpg)](/Crest/peltzer-seal) |
 | --- | --- | --- |
-| [![JLN gravestone](/assets/images/Crest/jln_vanvoorst.jpg)](/Crest/jln-gravestone) | [![CJN gravestone](/assets/images/Crest/cjn1873_1921.jpg)](/Crest/cjn-gravestone) | [![Peltzer letter seal](/assets/images/Crest/peltzer_seal.jpg)](/Crest/peltzer-seal) |
 | Gravestone of Johannes Leonardus Nierstrasz (1824-1878) and Maria Elisabeth Margaretha van Voorst van Beest (1936-1916) | Gravestone of Cornelis Johannes Nierstrasz (1873-1921) | Letter seal ostensibly bearing the Nierstrasz coat-of-arms; actually Peltzer |
- 
+
 
 Hendrik Johannes Nierstrasz (1881-1956), a third cousin of my grandfather, corresponded with DMN concerning the origins of the family and the coat-of-arms, and came to the conclusion that the downard-flying dove was the more authentic one.
 The three letters below detail his research into the origin of the family and the coat-of-arms.
