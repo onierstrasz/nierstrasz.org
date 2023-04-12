@@ -12,6 +12,7 @@ Add the missing images.
 See the [original website](https://www.nierstrasz.org/Crest/crest.html)
 
 ---
+
 |[![Nierstrasz coat of arms](/assets/images/Crest/small/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms)|[![Peltzer gravestone](/assets/images/Crest/small/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone)|
 |---|---|
 |Nierstrasz coat-of-arms, Nederland Praticiaat 1924  |Gravestone of Simon Peltzer and Anna Maria Nierstras|
