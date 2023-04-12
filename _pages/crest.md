@@ -13,7 +13,7 @@ Link to the [original page](https://www.nierstrasz.org/Crest/crest.html).
 ---
 
 
-[![Nierstrasz coat of arms](/assets/Crest/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms.md)|[![Peltzer gravestone](/assets/Crest/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone.md)|
+|[![Nierstrasz coat of arms](/assets/images/Crest/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms.md)|[![Peltzer gravestone](/assets/images/Crest/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone.md)|
 |---|---|
 |Nierstrasz coat-of-arms|Gravestone of Simon Peltzer and Anna Maria Nierstras|
 
@@ -24,13 +24,8 @@ Hendrik (the former mayor of Maastricht) (1773-1855), however, used a different 
 Perhaps some of the confusion can be attributed to the gravestone at right (near Aachen).
 Apparently the clover-leaf crest originates from the Peltzer family, whereas the falling pigeon crest comes from the Nierstrasz family.
 
- 
-see details
 
-
-
-
-The Nederlands' Patriciaat of 1924 is unambiguous, and describes the coat-of-arms as a blue dove, flying downwards on a silver background:
+The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous, and describes the coat-of-arms as a blue dove, flying downwards on a silver background:
 
 NIERSTRASZ, Protestant, Wapen: In zilver een vliegende blauwe duif, de kop omlaag, paalsgewijze gesteld.
 Helmteeken: de duif van het schild tusschen een zilver-blauwe vlucht.
