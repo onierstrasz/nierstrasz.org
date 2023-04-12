@@ -18,12 +18,13 @@ See the [original website](https://www.nierstrasz.org/Crest/crest.html)
 |Nierstrasz coat-of-arms, Nederland Praticiaat 1924  |Gravestone of Simon Peltzer and Anna Maria Nierstras|
 
 Over the years there has been considerable disagreement concerning the Nierstrasz coat of arms.
-The one shown at left (shown in the Nederlands' Patriciaat of 1924) was apparently used by Jacob (1670-1751) and his (German) descendants.
-Hendrik (the former mayor of Maastricht) (1773-1855), however, used a different one with three clover-leaves above a "hat of peace".
+The one shown at left (shown in the Nederlands' Patriciaat of 1924) was apparently used by Jacob N. (1670-1751) and his (German) descendants.
+Hendrik N., the former mayor of Maastricht (1773-1855), however, used a different one with three clover-leaves above a "hat of peace".
 Perhaps some of the confusion can be attributed to the gravestone at right (near Aachen).
 Apparently the clover-leaf crest originates from the Peltzer family, whereas the falling pigeon crest comes from the Nierstrasz family.
 
 ---
+# Nederlands' Patriciaat, 1924
 
 The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous, and describes the coat-of-arms as a blue dove, flying downwards on a silver background:
 
@@ -40,7 +41,7 @@ The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous,
 > (Since its establishment in the Netherlands.) ... The lineage probably had its birthplace at Cologne.
 
 A letter from the NP, dated 1925-04-29, Louise de Colignystraat 152, 's-Gravenhage, apparently to my grandfather, Deonisius Marius Nierstrasz (1889-1956), discusses the two coats-of-arms and points out that the dove motif appears on the gravestone of a Nierstrasz buried in Cologne.
-The Prof N referred to is possibly Hugo Fredrik N (1872-1935), a zoologist who specialized in molluscs, and who possibly was responsible for the genealogy in the NP of 1924.
+The Prof. N. referred to is possibly [Hugo Fredrik N.](https://de.wikipedia.org/wiki/Hugo_Frederik_Nierstrasz) (1872-1935), a zoologist who specialized in molluscs, and who possibly was responsible for the genealogy in the NP of 1924.
 
 > Weledelgeb. Heer! In antwoort op uwe geachte letteren van 28 dezer, deelen wij U het volgende mede.
 > Het wapen waarvan U ons een afdruk zondt [i.e., with the hat and clover leaves] was ons bekend, doch wij betwijfelen of dit het juiste is.
