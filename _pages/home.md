@@ -11,7 +11,7 @@ This web site contains mostly genealogical information about the Nierstrasz fami
 
 The information here has been cobbled together from various sources. (See the family tree for details.) I would be grateful for any additions, corrections or updates. (Emails in Dutch, German, Italian or French are also welcome!)
 
-- [Nierstrasz-Hahn-Margiotta family tree](/Tree/wc_toc.html)
+- [Nierstrasz-Hahn-Margiotta family tree](/tree)
 - [About the name "Nierstraß"](/nierstrass)
 - [About the origin of the Nierstrasz family](/origin) (in German and [English](/origin-en))
 - [About the Nierstrasz coat-of arms](/crest)
@@ -21,8 +21,8 @@ The information here has been cobbled together from various sources. (See the fa
 	- de Grauw Register Report (Aarsse, Fritz, Hahn, Hoffmann, van Campenhout, Walhain)
 - Hahn-Aarsse photo album (in Dutch)
 
-Privacy: If I have listed information about you that you would prefer to keep private, please let me know and I will remove it from this web site.
+*Privacy:* If I have listed information about you that you would prefer to keep private, please [contact me](https://www.oscar.nierstrasz.org) and I will remove it from this web site.
 
-These pages currently reside at: www.nierstrasz.org.
+These pages currently reside at: [www.family.nierstrasz.org](https://www.family.nierstrasz.org)
 
-Search this site with Google
+
