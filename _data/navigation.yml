@@ -13,7 +13,7 @@ nierstrass:
     children:
       - title: "Nierstraß"
         url: /nierstrass
-      - title: "Origin"
+      - title: "Family origin"
         url: /origin
       - title: "Coat of arms"
         url: /crest

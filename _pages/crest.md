@@ -8,6 +8,7 @@ sidebar:
 # TO DO
 
 Edit and add photos.
+Link to the [original page](https://www.nierstrasz.org/Crest/crest.html).
 
 ---
 
