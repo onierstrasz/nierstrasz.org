@@ -13,7 +13,7 @@ Link to the [original page](https://www.nierstrasz.org/Crest/crest.html).
 ---
 
 
-|[![Nierstrasz coat of arms](/assets/images/Crest/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms.md)|[![Peltzer gravestone](/assets/images/Crest/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone.md)|
+|[![Nierstrasz coat of arms](/assets/images/Crest/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms)|[![Peltzer gravestone](/assets/images/Crest/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone)|
 |---|---|
 |Nierstrasz coat-of-arms|Gravestone of Simon Peltzer and Anna Maria Nierstras|
 
