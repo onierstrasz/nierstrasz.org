@@ -20,4 +20,7 @@
 </div>
 -->
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">
+	<span class=footer-left>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</span>
+	<span class="footer-right">{{ site.description | escape }}&nbsp;<a href="https://github.com/onierstrasz/nierstrasz.org/edit/gh-pages/_pages/{{ page. name}}"><image src="images/pencil.png" alt="edit" width="20" length="20"></a></span>
+</div>
