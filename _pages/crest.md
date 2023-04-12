@@ -40,7 +40,9 @@ The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous,
 > Genealogy.
 > (Since its establishment in the Netherlands.) ... The lineage probably had its birthplace at Cologne.
 
-A letter from the NP, dated 1925-04-29, Louise de Colignystraat 152, 's-Gravenhage, apparently to my grandfather, Deonisius Marius Nierstrasz (1889-1956), discusses the two coats-of-arms and points out that the dove motif appears on the gravestone of a Nierstrasz buried in Cologne.
+## CONTINUE HERE
+
+A [letter from the NP](/assets/sources/NPLetter1925-04-25.pdf), dated 1925-04-29, Louise de Colignystraat 152, 's-Gravenhage, apparently to my grandfather, Deonisius Marius Nierstrasz (1889-1956), discusses the two coats-of-arms and points out that the dove motif appears on the gravestone of a Nierstrasz buried in Cologne.
 The Prof. N. referred to is possibly [Hugo Fredrik N.](https://de.wikipedia.org/wiki/Hugo_Frederik_Nierstrasz) (1872-1935), a zoologist who specialized in molluscs, and who possibly was responsible for the genealogy in the NP of 1924.
 
 > Weledelgeb. Heer! In antwoort op uwe geachte letteren van 28 dezer, deelen wij U het volgende mede.
