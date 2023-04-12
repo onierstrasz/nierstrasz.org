@@ -27,45 +27,31 @@ Apparently the clover-leaf crest originates from the Peltzer family, whereas the
 
 The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous, and describes the coat-of-arms as a blue dove, flying downwards on a silver background:
 
-NIERSTRASZ, Protestant, Wapen: In zilver een vliegende blauwe duif, de kop omlaag, paalsgewijze gesteld.
-Helmteeken: de duif van het schild tusschen een zilver-blauwe vlucht.
-Dekkleeden: zilver en blauw.
-Genealogie.
-(Sedert de vestiging in Nederland.) ... Het geslacht heeft waarschijnlijk te Keulen zijn bakermat.
+> NIERSTRASZ, Protestant, Wapen: In zilver een vliegende blauwe duif, de kop omlaag, paalsgewijze gesteld.
+> Helmteeken: de duif van het schild tusschen een zilver-blauwe vlucht.
+> Dekkleeden: zilver en blauw.
+> Genealogie.
+> (Sedert de vestiging in Nederland.) ... Het geslacht heeft waarschijnlijk te Keulen zijn bakermat.
 
 A letter from the NP, dated 1925-04-29, Louise de Colignystraat 152, 's-Gravenhage, apparently to my grandfather, Deonisius Marius Nierstrasz (1889-1956), discusses the two coats-of-arms and points out that the dove motif appears on the gravestone of a Nierstrasz buried in Cologne.
 The Prof N referred to is possibly Hugo Fredrik N (1872-1935), a zoologist who specialized in molluscs, and who possibly was responsible for the genealogy in the NP of 1924.
 
-Weledelgeb. Heer! In antwoort op uwe geachte letteren van 28 dezer, deelen wij U het volgende mede.
-Het wapen waarvan U ons een afdruk zondt [i.e., with the hat and clover leaves] was ons bekend, doch wij betwijfelen of dit het juiste is.
-Wij hadden in onze collectie het duif-wapen en ... op den zerk te Keulen staat hetzelfde duif-wapen.
-Op grond daarvan hebben wij den Prof. N. aangeraden dit wapen te doen afbeelden.
-De genealogie die Prof. N. bezat bevatte nog niet de helft, misschien zelfs geen derde van wat wij samenbrachten.
-Zeer zouden wij het op prijsstellen als U ons hoogere generatien zoudt kunnen bezorgen.
-U duidt het ons niet euvel als wij voorloopig althansz niet aan een Hongaarsche origine geloof hechten.
-Gaarne uw antwoord tegemoetziende.
-Hoogachtend D.G. van Epen
+> Weledelgeb. Heer! In antwoort op uwe geachte letteren van 28 dezer, deelen wij U het volgende mede.
+> Het wapen waarvan U ons een afdruk zondt [i.e., with the hat and clover leaves] was ons bekend, doch wij betwijfelen of dit het juiste is.
+> Wij hadden in onze collectie het duif-wapen en ... op den zerk te Keulen staat hetzelfde duif-wapen.
+> Op grond daarvan hebben wij den Prof. N. aangeraden dit wapen te doen afbeelden.
+> De genealogie die Prof. N. bezat bevatte nog niet de helft, misschien zelfs geen derde van wat wij samenbrachten.
+> Zeer zouden wij het op prijsstellen als U ons hoogere generatien zoudt kunnen bezorgen.
+> U duidt het ons niet euvel als wij voorloopig althansz niet aan een Hongaarsche origine geloof hechten.
+> Gaarne uw antwoord tegemoetziende.
+> Hoogachtend D.G. van Epen
+
 Various branchesof the Nierstrasz family have used variants of the Peltzer crest, however:
-
-
 
 | JLN gravestone | CJN gravestone | Peltzer letter seal |
 | --- | --- | --- |
 | [![JLN gravestone](/assets/images/Crest/jln_vanvoorst.jpg)](/Crest/jln-gravestone) | [![CJN gravestone](/assets/images/Crest/cjn1873_1921.jpg)](/Crest/cjn-gravestone) | [![Peltzer letter seal](/assets/images/Crest/peltzer_seal.jpg)](/Crest/peltzer-seal) |
 | Gravestone of Johannes Leonardus Nierstrasz (1824-1878) and Maria Elisabeth Margaretha van Voorst van Beest (1936-1916) | Gravestone of Cornelis Johannes Nierstrasz (1873-1921) | Letter seal ostensibly bearing the Nierstrasz coat-of-arms; actually Peltzer |
-
-
-
-
-
-[photo Benjamin Wesseling]
-
-
-
-Letter seal ostensibly bearing the Nierstrasz coat-of-arms; actually Peltzer
-
-[photo omn]
-
  
 
 Hendrik Johannes Nierstrasz (1881-1956), a third cousin of my grandfather, corresponded with DMN concerning the origins of the family and the coat-of-arms, and came to the conclusion that the downard-flying dove was the more authentic one.
