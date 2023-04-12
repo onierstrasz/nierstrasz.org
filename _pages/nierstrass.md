@@ -1,6 +1,8 @@
 ---
 title: "About the name Nierstraß"
 permalink: /nierstrass
+sidebar:
+  nav: "nierstrass"
 ---
 
 ![Nierstrass, 1937](/assets/images/Nierstrass/Nierstrass-1937.jpg)

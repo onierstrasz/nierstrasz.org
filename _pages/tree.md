@@ -1,6 +1,8 @@
 ---
 title: "Family tree"
 permalink: /tree
+sidebar:
+  nav: "nierstrass"
 ---
 
 The family tree data are managed using [Reunion](https://www.leisterpro.com), a Mac-based app with companion iOS apps for iPhone and iPad.

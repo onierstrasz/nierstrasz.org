@@ -6,3 +6,17 @@ main:
     url: /nierstrass
   - title: "Sitemap"
     url: /sitemap/
+
+# Menu for Nierstrass subpages
+nierstrass:
+  - title: "About Nierstraß"
+    children:
+      - title: "Nierstraß"
+        url: /nierstrass
+      - title: "Origin"
+        url: /origin
+      - title: "Coat of arms"
+        url: /crest
+      - title: "Family tree"
+        url: /tree
+

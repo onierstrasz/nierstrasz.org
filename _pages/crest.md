@@ -1,6 +1,8 @@
 ---
 title: "About the Nierstrasz Coat of Arms"
 permalink: /crest
+sidebar:
+  nav: "nierstrass"
 ---
 
 # TO DO

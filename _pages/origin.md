@@ -1,6 +1,8 @@
 ---
 title: "About the origin of the Nierstraß family in Eschweiler"
 permalink: /origin
+sidebar:
+  nav: "nierstrass"
 ---
 
 *Aus Mitteilungen der Westdt. Gesellschaft für Familienkunde 1935.*
