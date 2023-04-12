@@ -13,6 +13,8 @@ Link to the [original page](https://www.nierstrasz.org/Crest/crest.html).
 ---
 
 
+
+
 Over the years there has been considerable disagreement concerning the Nierstrasz coat of arms.
 The one shown at left (shown in the Nederlands' Patriciaat of 1924) was apparently used by Jacob (1670-1751) and his (German) descendants.
 Hendrik (the former mayor of Maastricht) (1773-1855), however, used a different one with three clover-leaves above a "hat of peace".

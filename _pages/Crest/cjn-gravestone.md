@@ -1,6 +1,8 @@
 ---
 title: "CJN Gravestone"
 permalink: /Crest/cjn-gravestone
+sidebar:
+  nav: "nierstrass"
 ---
 
 Gravestone of Cornelis Johannes Nierstrasz (1873-1921)
