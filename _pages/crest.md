@@ -278,23 +278,22 @@ The Peltzer family had a genealogy prepared by a certain Macco, in Aachen, which
 The following excerpt is from a letter (1999-09-21) by Emile Nierstrasz (my third cousin, and great great great grandson of Hendrik), which also mentions the photograph of the document signed by the notary-public Hendrik.
 (The "dead pigeon" is the downward-flying dove, which on Jacobus' gravestone above, looks more like a dead pigeon!) The letter mentions yet another coat-of-arms!
 
-...
-
-The coat of arms of our common ancestor Hendrik b.1773 d.1855 (Maastricht) is three clover-leaves above a "hat of peace".
-The crest is a clover-leaf.
-In the archives of Maastricht I found it as a seal on an official document (last will).
-I have a very bad picture of the same document made by your grandfather as I was told.
-Nevertheless your father told me in 1954 that he had chosen for the dead pigeon, because it is the oldest known coat of arms of a Nierstrasz (Jacob b.1670 d.1751 see above) and he showed me his ring.
-The dead pigeon is used by the German descendants of Abraham and Jacob, while there is an other coat of arms used by an other branch of the family in Germany.
-This one is something with flames and a bird and I believe it is a variation on the one of a female ancestor of this family branch.
-I forgot which family.
-The descendants of Johannus Leonardus Nierstrasz bd.1762 d.1838 (Rotterdam) have their own coat of arms, so there are at least 4 types (two in Germany and two in the Netherlands).
-
-In 1956 Charlotte Aldegonda Nierstrasz, daughter of Hendrik Jan Emile and granddaughter of Emile Chrétien, gave me the stamp to seal of Emile Chrétien, which has the coat of arms of Hendrik.
-This coat of arms is used by my family and my sisters.
-I don't know what the other descendants of Hendrik do.
-
-...
+> ...
+> The coat of arms of our common ancestor Hendrik b.1773 d.1855 (Maastricht) is three clover-leaves above a "hat of peace".
+> The crest is a clover-leaf.
+> In the archives of Maastricht I found it as a seal on an official document (last will).
+> I have a very bad picture of the same document made by your grandfather as I was told.
+> Nevertheless your father told me in 1954 that he had chosen for the dead pigeon, because it is the oldest known coat of arms of a Nierstrasz (Jacob b.1670 d.1751 see above) and he showed me his ring.
+> The dead pigeon is used by the German descendants of Abraham and Jacob, while there is an other coat of arms used by an other branch of the family in Germany.
+> This one is something with flames and a bird and I believe it is a variation on the one of a female ancestor of this family branch.
+> I forgot which family.
+> The descendants of Johannus Leonardus Nierstrasz bd.1762 d.1838 (Rotterdam) have their own coat of arms, so there are at least 4 types (two in Germany and two in the Netherlands).
+>
+> In 1956 Charlotte Aldegonda Nierstrasz, daughter of Hendrik Jan Emile and granddaughter of Emile Chrétien, gave me the stamp to seal of Emile Chrétien, which has the coat of arms of Hendrik.
+> This coat of arms is used by my family and my sisters.
+> I don't know what the other descendants of Hendrik do.
+>
+> ...
 
 Benjamin Nierstrasz (fourth cousin to both me and Emile, and also great great great grandson of Hendrik) has, however, adopted the dove as his letterhead.	
 These are all the samples of Nierstrasz coats-of-arms and their stories I have collected so far.
