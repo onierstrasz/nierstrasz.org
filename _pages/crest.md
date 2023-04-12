@@ -5,18 +5,16 @@ sidebar:
   nav: "nierstrass"
 ---
 
-# TO DO
+# TO DO 
 
-Edit and add photos.
-Link to the [original page](https://www.nierstrasz.org/Crest/crest.html).
+Add the missing images.
+
+See the [original website](https://www.nierstrasz.org/Crest/crest.html)
 
 ---
-
-
 |[![Nierstrasz coat of arms](/assets/images/Crest/small/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms)|[![Peltzer gravestone](/assets/images/Crest/small/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone)|
 |---|---|
 |Nierstrasz coat-of-arms, Nederland Praticiaat 1924  |Gravestone of Simon Peltzer and Anna Maria Nierstras|
-
 
 Over the years there has been considerable disagreement concerning the Nierstrasz coat of arms.
 The one shown at left (shown in the Nederlands' Patriciaat of 1924) was apparently used by Jacob (1670-1751) and his (German) descendants.
@@ -24,6 +22,7 @@ Hendrik (the former mayor of Maastricht) (1773-1855), however, used a different 
 Perhaps some of the confusion can be attributed to the gravestone at right (near Aachen).
 Apparently the clover-leaf crest originates from the Peltzer family, whereas the falling pigeon crest comes from the Nierstrasz family.
 
+---
 
 The [Nederlands' Patriciaat of 1924](/assets/sources/np1924.pdf) is unambiguous, and describes the coat-of-arms as a blue dove, flying downwards on a silver background:
 
@@ -52,18 +51,18 @@ The Prof N referred to is possibly Hugo Fredrik N (1872-1935), a zoologist who s
 > Gaarne uw antwoord tegemoetziende.
 > Hoogachtend D.G. van Epen
 
+---
+
 Various branches of the Nierstrasz family have used variants of the Peltzer crest, however:
 
 | [![JLN gravestone](/assets/images/Crest/small/jln_vanvoorst-small.jpg)](/Crest/jln-gravestone) | [![CJN gravestone](/assets/images/Crest/small/cjn1873_1921-small.jpg)](/Crest/cjn-gravestone) | [![Peltzer letter seal](/assets/images/Crest/small/peltzer_seal-small.jpg)](/Crest/peltzer-seal) |
 | --- | --- | --- |
-| Gravestone of Johannes Leonardus Nierstrasz (1824-1878) and Maria Elisabeth Margaretha van Voorst van Beest (1936-1916) | Gravestone of Cornelis Johannes Nierstrasz (1873-1921) | Letter seal ostensibly bearing the Nierstrasz coat-of-arms; actually Peltzer |
+| Gravestone of JLN (1824-1878) and MvVvB  (1936-1916)   | Gravestone of Cornelis Johannes Nierstrasz (1873-1921)  | Letter seal with Paltzer coat-of-arms (not Nierstrasz) |
 
+---
 
 Hendrik Johannes Nierstrasz (1881-1956), a third cousin of my grandfather, corresponded with DMN concerning the origins of the family and the coat-of-arms, and came to the conclusion that the downard-flying dove was the more authentic one.
 The three letters below detail his research into the origin of the family and the coat-of-arms.
-
-
-
 This letter from H. J. Nierstrasz, Haag 1927-01-06, to DMN reports first on a reproduction of a document signed by Hendrik Nierstrasz (1773-1855), notary public and later mayor of Maastricht, also great grandfather of DMN and great grand-uncle of HJN, which shows the coat-of-arms in the seal.
 Second, he mentions his failed efforts to track down Nierstrasz gravestones in Cologne.
 
@@ -113,6 +112,8 @@ Second, he mentions his failed efforts to track down Nierstrasz gravestones in C
 > You see, the matter now interests me too.
 >
 > ... Best regards H.J. Nierstrasz Larixlaan 97
+
+---
 
 This second letter from HJN to DMN is dated Berlin 1927-01-09, 3 days after previous letter.
 It claims that the Nierstrasz family, originating in Eschweiler, near Geilenkirchen, used the coat-of-arms with the dove, and that this motif was "bastardized" in Holland.
@@ -166,6 +167,8 @@ He gives (without indication of his source) a German description of the coat-of-
 > Where then, the commies of the State Archives will still try to establish.
 >
 > ... Best regards H.J. Nierstrasz
+
+---
 
 The third letter from HJN to DMN is dated a decade later, Wassenaar 1937-11-06, and mentions photos he has taken of the town, Nierstraß.
 He reports what he has learned of the history of the land.
@@ -274,6 +277,7 @@ The Peltzer family had a genealogy prepared by a certain Macco, in Aachen, which
 >
 > ... Henk [i.e. Hendrik]
 
+---
 
 The following excerpt is from a letter (1999-09-21) by Emile Nierstrasz (my third cousin, and great great great grandson of Hendrik), which also mentions the photograph of the document signed by the notary-public Hendrik.
 (The "dead pigeon" is the downward-flying dove, which on Jacobus' gravestone above, looks more like a dead pigeon!) The letter mentions yet another coat-of-arms!
@@ -295,8 +299,10 @@ The following excerpt is from a letter (1999-09-21) by Emile Nierstrasz (my thir
 >
 > ...
 
-Benjamin Nierstrasz (fourth cousin to both me and Emile, and also great great great grandson of Hendrik) has, however, adopted the dove as his letterhead.	
-These are all the samples of Nierstrasz coats-of-arms and their stories I have collected so far.
+---
 
-Back to: Nierstrasz Family Web	
-Last updated: 2002-09-25
+Benjamin Nierstrasz (fourth cousin to both me and Emile, and also great great great grandson of Hendrik) has, however, adopted the dove as his letterhead.	
+
+---
+
+These are all the samples of Nierstrasz coats-of-arms and their stories I have collected so far.
