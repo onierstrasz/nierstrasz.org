@@ -15,7 +15,7 @@ Link to the [original page](https://www.nierstrasz.org/Crest/crest.html).
 
 |[![Nierstrasz coat of arms](/assets/images/Crest/small/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms)|[![Peltzer gravestone](/assets/images/Crest/small/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone)|
 |---|---|
-|Nierstrasz coat-of-arms|Gravestone of Simon Peltzer and Anna Maria Nierstras|
+|Nierstrasz coat-of-arms, Nederland Praticiaat 1924  |Gravestone of Simon Peltzer and Anna Maria Nierstras|
 
 
 Over the years there has been considerable disagreement concerning the Nierstrasz coat of arms.
