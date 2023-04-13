@@ -46,7 +46,7 @@ A [letter from the NP](/assets/sources/NPLetter1925-04-25.pdf), dated 1925-04-29
 The Prof. N. referred to is possibly [Hugo Fredrik N.](https://de.wikipedia.org/wiki/Hugo_Frederik_Nierstrasz) (1872-1935), a zoologist who specialized in molluscs, and who possibly was responsible for the genealogy in the NP of 1924.
 
 > Weledelgeb. Heer! In antwoort op uwe geachte letteren van 28 dezer, deelen wij U het volgende mede.
-> Het wapen waarvan U ons een afdruk zondt [i.e., with the hat and clover leaves] was ons bekend, doch wij betwijfelen of dit het juiste is.
+> Het wapen waarvan U ons een afdruk zondt was ons bekend, doch wij betwijfelen of dit het juiste is.
 > Wij hadden in onze collectie het duif-wapen en ... op den zerk te Keulen staat hetzelfde duif-wapen.
 > Op grond daarvan hebben wij den Prof. N. aangeraden dit wapen te doen afbeelden.
 > De genealogie die Prof. N. bezat bevatte nog niet de helft, misschien zelfs geen derde van wat wij samenbrachten.
@@ -56,7 +56,9 @@ The Prof. N. referred to is possibly [Hugo Fredrik N.](https://de.wikipedia.org/
 > Hoogachtend D.G. van Epen
 
 > Dear Sir! In answer to your kind letters of 28th December, we inform you of the following.
-> The coat of arms of which you sent us a print [i.e., with the hat and clover leaves] was known to us, but we doubt whether this is the correct one.
+> The coat of arms of which you sent us a print
+> [i.e., with the hat and clover leaves] 
+> was known to us, but we doubt whether this is the correct one.
 > We had the dove coat of arms in our collection and ... The Cologne tombstone bears the same dove crest.
 > On this basis, we advised Prof. N. to have this coat of arms depicted.
 > The genealogy Prof. N. possessed contained less than half, maybe not even a third, of what we compiled.
@@ -73,29 +75,34 @@ Neverthless, various branches of the Nierstrasz family have used variants of the
 | --- | --- | --- |
 | Gravestone of JLN (1824-1878) and MvVvB  (1936-1916)   | Gravestone of Cornelis Johannes Nierstrasz (1873-1921)  | Letter seal with Paltzer coat-of-arms (not Nierstrasz) |
 
-
-# CONTINUE HERE
-
 Hendrik Johannes Nierstrasz (1881-1956), a third cousin of my grandfather, corresponded with DMN concerning the origins of the family and the coat-of-arms, and came to the conclusion that the downard-flying dove was the more authentic one.
 The three letters below detail his research into the origin of the family and the coat-of-arms.
-This letter from H. J. Nierstrasz, Haag 1927-01-06, to DMN reports first on a reproduction of a document signed by Hendrik Nierstrasz (1773-1855), notary public and later mayor of Maastricht, also great grandfather of DMN and great grand-uncle of HJN, which shows the coat-of-arms in the seal.
+
+[This letter from H. J. Nierstrasz, Haag 1927-01-06](/assets/sources/HJNierstrasz1927-01-06.pdf), to DMN reports first on a reproduction of a document signed by Hendrik Nierstrasz (1773-1855), notary public and later mayor of Maastricht, also great grandfather of DMN and great grand-uncle of HJN, which shows the coat-of-arms in the seal.
 Second, he mentions his failed efforts to track down Nierstrasz gravestones in Cologne.
+
+## HERE insert images of Hendrik N letter and seal closeup 
+
+![Hendrik N. letter](/assets/images/Crest/HendrikN1793-08-16.jpg)
+
+![Hendrik N. letter seal](/assets/images/Crest/HendrikN_seal.jpg)
 
 > Zeer geachte Heer Nierstrasz!
 >
 > ... In gesloten de beloofde reproduktie van een akte van notaris H. Nierstrasz uit het jaar 1793.
 > Het was het eenigste exemplaar, dat zijn zegel (ongeschonden bovendien) vertooonde.
-> In de Franschen tijd [i.e., afterwards] werden stukken uitsluitend met het regeeringszegel voorzien.
+> In de Franschen tijd werden stukken uitsluitend met het regeeringszegel voorzien.
 > Ik zend U twee afdrukken, 1 op hardwerkend papier en 1 op medium.
 > Op het laatste komen de stukken van het wapen door het geringere contrast beter uit.
-> [We only have one of these two.] Zooals uit de akte blijkt, verklaart notaris Nz daarin het zegel als het zijne.
+> Zooals uit de akte blijkt, verklaart notaris Nz daarin het zegel als het zijne.
 > Of hiermede nu bewezen is, dat dit zijn familiewapen is, blijft de vraag.
 > Ik zal nog eens in de Kon. Bibliotheek snuffelen of ik hierover iets kan vinden.
 > In "Rietstap" komt geen beschrijving voor.
-> Het onderzoek heeft, zooals U gemerkt zult hebben, veel stagnatie ondervonden.> 
-> ... Intussen was ik, daar ik toch voor onze Toko [Indonesian name for a shop] naar München en Keulen moest, ook eens in Aachen gaan kijken.
+> Het onderzoek heeft, zooals U gemerkt zult hebben, veel stagnatie ondervonden.
+> 
+> ... Intussen was ik, daar ik toch voor onze Toko naar München en Keulen moest, ook eens in Aachen gaan kijken.
 > Ik kon alleen vaststellen dat noch in Keulen noch in Aachen thans leden van onze familie wonen.
-> [A later letter contradicts this] Ook de beroemde grafsteen die het familiewapen zou vertonen, heb ik niet kunnen vinden, ofschoon ik alle protestantsche kerken heb afgezocht.
+> Ook de beroemde grafsteen die het familiewapen zou vertonen, heb ik niet kunnen vinden, ofschoon ik alle protestantsche kerken heb afgezocht.
 > In den Dom in Keulen zijn natuurlijk geen protestanten begraven.
 > Ook in Maastricht kon ik die steen niet vinden.
 > De grafsteenen op het kerkhof (dat sedert 1800 in gebruik is) waren tijdens de kerstdagen bijna alle onder gesneeuwd en ik had geen bezem bij me.
@@ -117,6 +124,7 @@ Second, he mentions his failed efforts to track down Nierstrasz gravestones in C
 > I will have another look in the Royal Library to see if I can find anything about this.
 > There is no description in "Rietstap".
 > The research has, as you will have noticed, encountered a lot of stagnation. 
+>
 > ... Meanwhile, since I had to go to Munich and Cologne for our Toko [Indonesian name for a shop] anyway, I also had a look in Aachen.
 > I could only establish that neither Cologne nor Aachen are currently home to members of our family.
 > A later letter contradicts this] I was also unable to find the famous gravestone bearing the family coat of arms, although I searched all the Protestant churches.
@@ -130,31 +138,33 @@ Second, he mentions his failed efforts to track down Nierstrasz gravestones in C
 
 ---
 
-This second letter from HJN to DMN is dated Berlin 1927-01-09, 3 days after previous letter.
+This [second letter from HJN to DMN](/assets/sources/HJNierstrasz1927-01-09.pdf) is dated Berlin 1927-01-09, 3 days after previous letter.
 It claims that the Nierstrasz family, originating in Eschweiler, near Geilenkirchen, used the coat-of-arms with the dove, and that this motif was "bastardized" in Holland.
 He gives (without indication of his source) a German description of the coat-of-arms, and another description in French.
 
 > Zeer geachte Heer Nierstrasz!
 >
-> ... [repeats information that only Catholics were buried in the cathedral in Cologne.
-> If there were Catholics in the Nz family, it must have been before 1600.]
+> ... 
 > In ieder geval heeft de protestante tak uit Eschweiler het wapen met de duif gevoerd.
 > Dit wapen is vermoedelijk in Holland verbasterd en ik zou eens willen weten wie dat op z'n geweten heeft.
 > De Duitsche beschrijving van het wapen luidt als volgt:
 >> "Eine stürzende Taube, mit einer Traube; auf dem Helm die Taube sitzend mit der Taube."
+>
 > De afbeelding vertoonde de duif schuin naar beneden vliegend met een trosje druiven in den bek.
 > Op den helm, de duif zittend met een trosje druiven.
+>
 > Rietstap geeft de volgende beschriving
 >> "Une colombe, la tête en bas, les ailes étendues."
+>
 > Hiermede heeft hij dus niet gezegt, dat de duif loodrecht naar beneden vliegt.
 > Van het trosje druijven spreekt R. niet, ook het helmsieraad beschrift hij niet.
 > Ik zal nu toch eens trachten uit te visschen of een van onze voorvaderen het wapen veranderd heeft, of dat dit door 'n buitenlander gedaan is.
 > In het laatste geval is de Duitsche beschrijving goed.
 >
 > Verder is niet de vader van de notaris maar diens grootvader in 1775 in Maastricht begraven.
-> [According to NP 1924, the grandfather died in 1762; the grandmother in 1775] Niet in de St. Janskerk, want dat heb ik vers onderzocht.
+> Niet in de St. Janskerk, want dat heb ik vers onderzocht.
 > Waar dan wel zal de commies van het Rijksarchief nog trachten vast te stellen.
-
+>
 > ... Met hartelijk groeten H.J. Nierstrasz
 
 
@@ -166,26 +176,28 @@ He gives (without indication of his source) a German description of the coat-of-
 > In any case, the Protestant branch from Eschweiler held the coat of arms with the dove.
 > This coat of arms has probably been corrupted in Holland and I would like to know who is responsible for that.
 > The German description of the coat of arms reads as follows:
->> "Eine stürzende Taube, mit einer Traube; auf dem Helm die Taube sitzend mit der Taube."
+>> "A falling dove, with a cluster of grapes; on the helmet the dove seated with the dove."
+>
 > The image showed the dove flying diagonally downwards with a bunch of grapes in its beak.
 > On the helmet, the dove sitting with a bunch of grapes.
 >
-> Reed Step gives the following description
->> "Une colombe, la tête en bas, les ailes étendues."
-> So by this he did not say, that the pigeon flies perpendicularly downwards.
+> Rietstap gives the following description
+>> "A dove, head down, wings spread."
+>
+> So by this he did not say that the pigeon flies perpendicularly downwards.
 > Of the cluster of grapes R. does not speak, nor does he describe the helmet ornament.
 > I will now try to find out whether one of our ancestors changed the coat of arms, or whether this was done by a foreigner.
 > In the latter case, the German description is good.
 >
 > Furthermore, not the notary's father but his grandfather was buried in Maastricht in 1775.
-> [According to NP 1924, the grandfather died in 1762; the grandmother in 1775] Not in the St. Janskerk, because I researched that freshly.
-> Where then, the commies of the State Archives will still try to establish.
+> [According to NP 1924, the grandfather died in 1762; the grandmother in 1775] Not in the St. Janskerk, because I researched that afresh.
+> Where then, the commission of the State Archives will still try to establish.
 >
 > ... Best regards H.J. Nierstrasz
 
 ---
 
-The third letter from HJN to DMN is dated a decade later, Wassenaar 1937-11-06, and mentions photos he has taken of the town, Nierstraß.
+The [third letter from HJN to DMN](/assets/sources/HJNierstrasz1937-11-06.pdf) is dated a decade later, Wassenaar 1937-11-06, and mentions photos he has taken of the town, Nierstraß.
 He reports what he has learned of the history of the land.
 He mentions the photo of the gravestone of Jacobus N (1670-1751), which he has had published in the [NP 1928](/assets/sources/np1928.pdf).
 Here he explains that Jacobus was also the father of Anna Maria N, married to Simon Peltzer (whose gravestone was the source of the confusion).
