@@ -14,7 +14,7 @@ The information here has been cobbled together from various sources. (See the fa
 
 - [Nierstrasz-Hahn-Margiotta family tree](/tree)
 - [About the name "Nierstraß"](/nierstrass)
-	- [About the origin of the Nierstrasz family](/origin) (in German and [English](/origin-en))
+	- [About the origin of the Nierstrasz family](/origin)
 	- [About the Nierstrasz coat-of arms](/crest)
 - [Hahn-Aarsse album](/hahn-aarsse) (TO DO)
 
