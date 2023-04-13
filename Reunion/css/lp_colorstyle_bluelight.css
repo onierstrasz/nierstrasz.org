@@ -1,25 +1,24 @@
-a { color: #6666CC; }
-a:visited { color: #9999CC; }
-a:hover { color: #0000FF; }
-.smallBullet { color: #102a69; }
+a, a:visited {color: #6666CC;text-decoration: none;}
+a:hover {color: #0000FF;text-decoration: underline;}
+.smallBullet {color: #102a69;}
 
-body
+body, #pHeader, #menu ul, #ddmenuspan
 	{
 	background-image: url(lp_babyblue2.jpg);
 	color: #102a69;
 	}
 
-.reportBody
+.reportBody, #rBody
 	{
 	background-image: url(lp_grayrandom.jpg);
 	}
 
-.reportBody, .pageTitle, .pageBody, .fhName, .surRecord, .rrNav, .fhNotes, .footer
+.reportBody, .pageTitle, .pageBody, .fhName, .surRecord, .rrNav, .fhNotes, .footer, #rBody, #menu ul, #pHeader
 	{
 	border-color: #567efc;
 	}
 
-.tocTitle, .pageTitle, .tocLinksTitle, .tocIntroTitle, .tocContactTitle
+.tocTitle, .pageTitle, .tocLinksTitle, .tocIntroTitle, .tocContactTitle, #pTitle, #dDMButton
 	{
 	text-shadow: #888 2px 2px 5px;
 	}
@@ -40,9 +39,6 @@ body
 	background-color: rgba(196,217,226,0.5);
 	border-bottom-color: #b5b5b5;
 	}
-/* 102a69 */
-
-
 
 .srcEntry
 	{
@@ -58,6 +54,12 @@ body
 	{
 	background-color: rgba(189,210,218,0.4);
 	}
+
+.psRecord, .psMRecord, .psFRecord
+	{
+	border-color: #2989d3;
+	}
+
 
 .psChildren
 	{
@@ -94,18 +96,34 @@ body
 	background-color: rgba(209,209,209,0.35);
 	}
 
+/* search results */
+#results
+	{
+	background-color: white;
+	}
+
+table#results td.u
+	{
+	background-color: #e7ffc1;
+	}
+
 /* web cards */
+.wcParentName, .wcChildName
+	{
+	color: #909090;
+	}
+
 .wcHFather, .wcHMother, .wcWFather, .wcWMother
 	{
 	border-color: #2989d3;
 	}
 
-.wcHFather, .wcWFather
+.wcHFather, .wcWFather, table#results td.m
 	{
 	background-color: rgba(224,239,254,0.51);
 	}
 
-.wcHMother, .wcWMother
+.wcHMother, .wcWMother, table#results td.f
 	{
 	background-color: rgba(252,183,214,0.28);
 	}
@@ -115,7 +133,8 @@ body
 	color: #333;
 	}
 
-.wcHusband, .wcWife, .wcHFacts, .wcWFacts,
+.wcHusband, .wcWife, .wcFHusband, .wcMWife,
+.wcHFacts, .wcWFacts,
 .wcMChild, .wcFChild, .wcMChildBold, .wcFChildBold
 	{
 	border-color: #2989d3;
@@ -142,12 +161,16 @@ body
 	color: #333;
 	}
 	
-.wcHusband, .wcMChild, .wcMChildBold
+.wcHusband, .wcMWife,
+.wcMChild, .wcMChildBold,
+.wcHFactsWrapper .wcFactPicture img
 	{
 	background-color: rgba(224,239,254,0.3);
 	}
 	
-.wcWife, .wcFChild, .wcFChildBold
+.wcWife, .wcFHusband,
+.wcFChild, .wcFChildBold,
+.wcHFactsWrapper .wcFactPicture img
 	{
 	background-color: rgba(252,183,214,0.3);
 	}
@@ -175,6 +198,7 @@ body
 .psFooter
 	{
 	background-color: #cdd8de;
+	border-color: #567efc;
 	}
 
 .psModDate, .psCreated
@@ -182,9 +206,15 @@ body
 	color: #444;
 	}
 
-.wmPicture img, .wcFactPicture img, .psPicture img, .tocImageB img
+.wcFactPicture img
 	{
-	border-color: #aaa;
+	border-color: #2989d3;
+	}
+
+
+.wmPicture img, .psPicture img, .tocImageB img
+	{
+	border-color: #2989d3;
 	}
 
 .wmItemRecord
@@ -244,7 +274,7 @@ body
 	
 .scView
 	{
-	color: black;
+	color: #ababab;
 	background-color: white;
 	border-color: #888;
 	}

@@ -4,6 +4,7 @@ permalink: /
 layout: home
 author_profile: true
 ---
+
 *Caveat:* This website is being migrated from [nierstrasz.org](https://www.nierstrasz.org).
 Not all content is available yet.
 
@@ -13,16 +14,11 @@ The information here has been cobbled together from various sources. (See the fa
 
 - [Nierstrasz-Hahn-Margiotta family tree](/tree)
 - [About the name "Nierstraß"](/nierstrass)
-- [About the origin of the Nierstrasz family](/origin) (in German and [English](/origin-en))
-- [About the Nierstrasz coat-of arms](/crest)
-- Register Reports (RTF)
-	- Nierstrasz Register Report
-	- Hahn Register Report
-	- de Grauw Register Report (Aarsse, Fritz, Hahn, Hoffmann, van Campenhout, Walhain)
-- Hahn-Aarsse photo album (in Dutch)
+	- [About the origin of the Nierstrasz family](/origin) (in German and [English](/origin-en))
+	- [About the Nierstrasz coat-of arms](/crest)
+- [Hahn-Aarsse album](/hahn-aarsse) (TO DO)
+
+---
 
 *Privacy:* If I have listed information about you that you would prefer to keep private, please [contact me](https://www.oscar.nierstrasz.org) and I will remove it from this web site.
-
-These pages currently reside at: [www.family.nierstrasz.org](https://www.family.nierstrasz.org)
-
 

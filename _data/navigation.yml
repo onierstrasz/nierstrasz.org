@@ -4,6 +4,8 @@ main:
     url: /tree
   - title: "About Nierstraß"
     url: /nierstrass
+  - title: "Hahn-Aarsse album"
+    url: /hahn-aarsse
   - title: "Sources"
     url: /sources
   - title: "Sitemap"
@@ -21,4 +23,11 @@ nierstrass:
         url: /origin
       - title: "Coat of arms"
         url: /crest
+
+# Menu for Hahn-Aarsse album subpages
+hahn-aarsse:
+  - title: "Hahn-Aarsse"
+    children:
+      - title: "Hahn-Aarsse Album"
+        url: /hahn-aarsse
 
