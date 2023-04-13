@@ -13,12 +13,12 @@ main:
 nierstrass:
   - title: "About Nierstraß"
     children:
+      - title: "Family tree"
+        url: /tree
       - title: "Nierstraß"
         url: /nierstrass
       - title: "Family origin"
         url: /origin
       - title: "Coat of arms"
         url: /crest
-      - title: "Family tree"
-        url: /tree
 

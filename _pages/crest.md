@@ -5,17 +5,9 @@ sidebar:
   nav: "nierstrass"
 ---
 
-# TO DO 
-
-Add the missing images.
-
-See the [original website](https://www.nierstrasz.org/Crest/crest.html)
-
----
-
 |[![Nierstrasz coat of arms](/assets/images/Crest/small/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms)|[![Peltzer gravestone](/assets/images/Crest/small/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone)|
 |---|---|
-|Nierstrasz coat-of-arms, Nederland Praticiaat 1924  |Gravestone of Simon Peltzer and Anna Maria Nierstras|
+|The Nierstrasz coat-of-arms, Nederland Praticiaat 1924 |Gravestone of Simon Peltzer and Anna Maria Nierstras|
 
 Over the years there has been considerable disagreement concerning the Nierstrasz coat of arms.
 The one shown at left (shown in the Nederlands' Patriciaat of 1924) was apparently used by Jacob N. (1670-1751) and his (German) descendants.
@@ -67,6 +59,7 @@ The Prof. N. referred to is possibly [Hugo Fredrik N.](https://de.wikipedia.org/
 > We look forward to your reply.
 > Yours sincerely D.G. van Epen
 
+---
 # Letters from HJN to DMN
 
 Neverthless, various branches of the Nierstrasz family have used variants of the Peltzer crest.
@@ -81,11 +74,9 @@ The three letters below detail his research into the origin of the family and th
 [This letter from H. J. Nierstrasz, Haag 1927-01-06](/assets/sources/HJNierstrasz1927-01-06.pdf), to DMN reports first on a reproduction of a document signed by Hendrik Nierstrasz (1773-1855), notary public and later mayor of Maastricht, also great grandfather of DMN and great grand-uncle of HJN, which shows the coat-of-arms in the seal.
 Second, he mentions his failed efforts to track down Nierstrasz gravestones in Cologne.
 
-## HERE insert images of Hendrik N letter and seal closeup 
-
-![Hendrik N. letter](/assets/images/Crest/HendrikN1793-08-16.jpg)
-
-![Hendrik N. letter seal](/assets/images/Crest/HendrikN_seal.jpg)
+| [![Hendrik N. document](/assets/images/Crest/small/HendrikN1793-08-16-small.jpg)](/Crest/hendrikN-1793-document) | [![Hendrik N. seal](/assets/images/Crest/HendrikN_seal.jpg)](/Crest/hendrikN-1793-document) |
+| --- | --- |
+| Document signed by Hendrik N. | Closeup of the document seal |
 
 > Zeer geachte Heer Nierstrasz!
 >
@@ -212,7 +203,7 @@ The Peltzer family had a genealogy prepared by a certain Macco, in Aachen, which
 >
 > ... In je brief spreek je van de heerlijkheid Nierstrass, het geen niet juist is.
 > Dit was wel het geval met het vlak daarbij gelegen Müncherath.
-> Deze heerlijkheid heette vroeger alleen "Rode" (is gerooid bosch) [=clearcut forest] tot zij in de handen viel van de Monnikken van Heinsberg (niet Eschweiler) en van toen af Müncherath genoemd werd.
+> Deze heerlijkheid heette vroeger alleen "Rode" (is gerooid bosch) tot zij in de handen viel van de Monnikken van Heinsberg (niet Eschweiler) en van toen af Müncherath genoemd werd.
 > Bij Müncherath behoorde ook de "Nederstraisze" (laag gelegen weg).
 > Het gehucht Nierstrass is door verkoop van stukken land van Müncherath ontstaan.
 >
@@ -235,25 +226,26 @@ The Peltzer family had a genealogy prepared by a certain Macco, in Aachen, which
 >
 > Zooals je ziet, staat de duif niet loodrecht met de kop naar beneden, doch schuin.
 >
-> Dit was ook het geval met het wapen van Theodor Nierstrasz [born ca 1653] uit Aachen, wiens dochter [Johanna Katharina] eveneens met een Peltzer [Diederich] getrouwd was.
+> Dit was ook het geval met het wapen van Theodor Nierstrasz uit Aachen, wiens dochter [Johanna Katharina] eveneens met een Peltzer [Diederich] getrouwd was.
 > De duif in dit wapen heeft bovendien een trosje druiven in den bek.
 > Het helmsieraad is eveneens de duif met het trosje druiven doch zittend.
 > Haar grafsteen ligt ook op het kerkhof van Stolberg.
 > Dergeleijke "varianten" komen in de heraldiek wel voor en zijn ook geoorloofd.
 > Het aanbrengen van andere wapenfiguren echter niet.
-> Hoe zou anders de uitdrukking "in zijn schildvoeren" ["carrying in your coat of arms", meaning doing something underhanded?] reden van bestaan kunnen hebben?
+> Hoe zou anders de uitdrukking "in zijn schildvoeren" reden van bestaan kunnen hebben?
 >
 > De familie Peltzer heeft door den heraldicus en genealoog Macco uit Aachen een genealogie laten maken.
 > Hierin is ook een kleine genealogie van onze familie opgenomen.
 > In het stadtarchiv van Aachen werd ik hierop attent gemaakt.
 > In genoemde archief heb ik toen ook de aansluiting op onze genealogie tot stand gebracht.
-> Eigenaardig is het, dat Jacobus Nierstras [sic] en zijn nakomelingen waarvan er nog in Keulen wonen, [NB contradicting earlier letter of 1927] hun naam zonder "z" schreven.
+> Eigenaardig is het, dat Jacobus Nierstras [sic] en zijn nakomelingen waarvan er nog in Keulen wonen, hun naam zonder "z" schreven.
 > Hiermede heb ik, naar ik hoop, je nieuwsgierigheid naar onze afstamming en het ontstaan van de naam, voldoende bevredigt.
 >
-> ... Henk [i.e. Hendrik]
+> ... Henk
 
-
-
+| [![Nierstraß 1937](/assets/images/Nierstrass/small/Nierstrass-1937-small.jpg)](/nierstrass) | [![Gravestone of Jacobus N](/assets/images/Crest/small/JacobusN_NP1928-small.jpg)](/Crest/jacobusN-gravestone) |
+| --- | --- |
+| Town of Nierstraß, 1937 | Gravestone of Jacobus N |
 
 > Dear Dick!
 >
@@ -275,8 +267,7 @@ The Peltzer family had a genealogy prepared by a certain Macco, in Aachen, which
 > However, you can get it at the State Archives in Maastricht for perusal.
 > I also had a photo taken of the tombstone of Jacobus Nierstrass (who died in Cologne), which shows our coat of arms with the dove.
 > This in connection with the fact that our family has at least three coats of arms, which is ridiculous.
-
-
+>
 > The gravestone shown here is in the cemetery in Sülz near Cologne.
 > The Jacobus Nierstrasz mentioned here was the son of Abraham Nierstrasz, and grandson of the ancestor Leonard.
 > See Macco, t. a. p. (Communicated by H. J. Nierstrasz, at The Hague).
@@ -304,7 +295,10 @@ The Peltzer family had a genealogy prepared by a certain Macco, in Aachen, which
 >
 > ... Henk [i.e. Hendrik]
 
+
+
 ---
+# Letter from Emile  N.
 
 The following excerpt is from a letter (1999-09-21) by Emile Nierstrasz (my third cousin, and great great great grandson of Hendrik), which also mentions the photograph of the document signed by the notary-public Hendrik.
 (The "dead pigeon" is the downward-flying dove, which on Jacobus' gravestone above, looks more like a dead pigeon!) The letter mentions yet another coat-of-arms!
@@ -327,13 +321,21 @@ The following excerpt is from a letter (1999-09-21) by Emile Nierstrasz (my thir
 > ...
 
 ---
+# Benjamin N. letterhead
 
-Benjamin Nierstrasz (fourth cousin to both me and Emile, and also great great great grandson of Hendrik) has, however, adopted the dove as his letterhead.	
+Benjamin Nierstrasz (fourth cousin to both me and Emile, and also great great great grandson of Hendrik), however, adopted the dove as his letterhead.
+
+![Benjamin N. letterhead](/assets/images/Crest/benjaminNletterhead.jpg)
 
 ---
+# “Dove descending” Christian symbolism
 
-Since then I have discovered that the “dove descending” is a [Christian symbol of the Holy Spirit](https://en.wikipedia.org/wiki/Sign_of_the_Dove).
+Since then I have discovered that the “dove descending” is a common Christian symbol of the [Holy Spirit descending](https://en.wikipedia.org/wiki/Sign_of_the_Dove) during the baptism of Jesus.
+I later found the following stained glass window in July, 2016, in [Bergen Cathedral](https://goo.gl/maps/qh7vKJCeZ64qWSFz7).
+
+![Stained glass window in Bergen Cathedral](/assets/images/Crest/doveDescendingBergenCathedral.jpg)
+
+Unfortunately my photo is rather poor, but here is a better
+[stock image of the same window](https://www.alamy.com/stained-glass-window-depicting-baptism-of-christ-domkirken-cathedral-image6926063.html).
 
 ---
-
-These are all the samples of Nierstrasz coats-of-arms and their stories I have collected so far.
