@@ -5,7 +5,7 @@ main:
   - title: "About Nierstraß"
     url: /nierstrass
   - title: "Hahn-Aarsse album"
-    url: /hahn-aarsse
+    url: /HahnAarsse/index
   - title: "Sources"
     url: /sources
   - title: "Sitemap"
@@ -26,8 +26,38 @@ nierstrass:
 
 # Menu for Hahn-Aarsse album subpages
 hahn-aarsse:
-  - title: "Hahn-Aarsse"
+  - title: "Hahn-Aarsse FamilieBoek"
+    url: /HahnAarsse/index
     children:
-      - title: "Hahn-Aarsse Album"
-        url: /hahn-aarsse
-
+      - title: "Adrienne de Grauw"
+        url: /HahnAarsse/deGrauw
+      - title: "Tante Victoire"
+        url: /HahnAarsse/TanteVictoire
+      - title: "Henriette de Ridder"
+        url: /HahnAarsse/HenrietteDeRidder
+      - title: "Lydia de Ridder"
+        url: /HahnAarsse/LydiaDeRidder
+      - title: "Aarsse-Fritz"
+        url: /HahnAarsse/Aarsse-Fritz
+      - title: "De Speelzolder"
+        url: /HahnAarsse/Speelzolder
+      - title: "Jet Aarsse"
+        url: /HahnAarsse/JetAarsse
+      - title: "Elspeet, 1932"
+        url: /HahnAarsse/Elspeet
+      - title: "Hahn-Aarsse"
+        url: /HahnAarsse/Hahn-Aarsse
+      - title: "Brieven van Georg Hahn"
+        url: /HahnAarsse/LettersFromGeorg
+      - title: "Na de oorlog — Oma Hahn"
+        url: /HahnAarsse/NaDeOorlog
+      - title: "Tante Do naar Boekarest"
+        url: /HahnAarsse/DoNaarBoekarest
+      - title: "Tante Do en Oom Huug Bosscha"
+        url: /HahnAarsse/DoEnHuug
+      - title: "Oom Louis Hahn"
+        url: /HahnAarsse/OomLouis
+      - title: "Jettie Nierstrasz - Hahn"
+        url: /HahnAarsse/JetHahn
+      - title: "Photo Catalog"
+        url: /HahnAarsse/catalog
