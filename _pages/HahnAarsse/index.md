@@ -19,6 +19,8 @@ Text provided by Joke Sebus-Hahn, from conversations with Do Bosscha-Hahn.
 
 # I. Familie Fritz - de Ridder - de Grauw
 
+___CONTINUE HERE___
+
 - [Tante Victoire Fritz - d'Oultremont](/HahnAarsse/TanteVictoire) ___TO FIX___
 - [Tante Henriëtte Kapeller - de Ridder en Onkel Bruno Hoffmann](/HahnAarsse/HenrietteDeRidder)
 - [Tante Lydia Willkomm - de Ridder](/HahnAarsse/LydiaDeRidder)  ___TO DO___
