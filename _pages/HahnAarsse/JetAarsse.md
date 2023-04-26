@@ -5,14 +5,6 @@ sidebar:
   nav: "hahn-aarsse"
 ---
 
-
-# TO FIX
-
-Migrate from [original](https://www.nierstrasz.org/HahnAarsse/JetAarsse.html)
-
-
----
-
 [![Gerhard.gif](/assets/images/HahnAarsse/trees/Gerhard.gif)](/assets/images/HahnAarsse/trees/Gerhard.gif)
 
 
