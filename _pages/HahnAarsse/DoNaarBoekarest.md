@@ -9,3 +9,95 @@ sidebar:
 # TO FIX
 
 Migrate from [original](https://www.nierstrasz.org/HahnAarsse/DoNaarBoekarest.html)
+
+---
+
+[![do_1924](/assets/images/HahnAarsse/small/do_1924.jpg)](/assets/images/HahnAarsse/full/do_1924.jpg)
+
+
+
+Pasfoto van Tante Do Hahn, mei 1924
+
+
+In de huiskamer leest Opa Aarsse de krant, Oma Hahn schrijft brieven, Tante Jettie maakt Nederlands voor school; één kachel voor het hele gezin. Dan zegt Opa: 'Zeg Do, is dit niets voor jou? Barones van Nagell zoekt per advertentie een onderwijzeres voor haar zevenjarig dochtertje. Het gezin woont in Boekarest' . 'Ja', zegt Tante Do: 'Dat lijkt me wel wat'. Waarop Oma een schoon blaadje briefpapier neemt en begint te schrijven. Wat zet je nu bovenaan zo'n brief? Tante Jettie zoekt het op in haar Nederlandse boek, en Oma schrijft: 'Hoogedelwelgeboren Vrouwe'. Daarna zegt ieder om de beurt één zin.
+
+Tante Do voldeed aan alle wensen: zij kon zingen en pianospelen, sprak Frans Duis en Engels (het laatste niet zó vloeiend, maar nou ja). Nu nog een referentie. In ieder geval het hoofd van de school. Tante Do gaf les als leerling met acte, wat betekende dat zij niet veel anders deed dan schoolwerk nakijken en twee keer per week een (nare) les geven in de klas van het schoolhoofd. Het was een achterbuurtschool en ze wilde daar best weg. Wie was het deftigste familielid om als referentie op te geven? Oom Charles was referendaris, Oom Guus was arts. Tenslotte besloot men om de naam te noemen van mevrouw van Limburg Stirum, die wel bij Oom Guus kwam; haar man was ook arts.
+
+Binnen een week kwam er antwoord met het verzoek of Tante Do op bezoek wilde gaan bij de Grootmeesteres van de Koningin, Gravin van Linden. Daarna vroeg men haar drie dagen te logeren in huize De Schaffelaar in Barneveld. Tante Do begreep dat men eens wilde zien hoe zij haar vork en mes hanteerde tijdens het eten. Het was de bedoeling dat Tante Do 'en familie' zou zijn, wat betekende samen met de familie de lunch en het diner gebruiken tenzij er een groot diner was. Het gezin op de Schaffelaar bestond uit: Grootpapa, die een geweldige snor had die in twee krullen omhoogkringelde; hij werd door Grootmama liefdevol 'Kokoeris' genoemd. Dan Grootmama, die een japon droeg die al een jaar of 60 uit de mode was, met een rok met stootbandjes tot op de grond en een omhoogstaand kraagje met baleintjes. Er was ook een ongetrouwde zuster van Grootmama die ongeveer dezelfde kleren droeg maar iets lichter van kleur. De jonge baron was eerste secretaris op de ambassade in Berlijn geweest. Tenslotte de zevenjarige Jeanette en een baby, Egbert Joost, die verzorgd werd door een Duitse Sauglingschwester. Tante Do zou behalve les geven aan Jeanette haar ook naar dansles brengen, met haar gaan wandelen enz.
+
+Jeanette sprak alleen maar Duits tot grote ergernis van Grootmama en Grootpapa. Tante Do had voor haar boekjes van Rie Cramer meegebracht, zong liedjes voor haar bij de piano en wandelde met haar en Fräulein en de baby in de kinderwagen. Alles liep goed: Tante Do was net drie maanden in Lübeck geweest en sprak vloeiend Duits en het kind vond haar wel aardig. De laatste dag was Tante Do alleen aan het ontbijt toen Grootmama haar door aansprak. Grootmama zei dat ze het moeilijk vond om Tante Do, die nog zo jong was, mee te laten gaan naar Boekarest met de jonge mevrouw, die volgens Grootmama stapelgek was. We wachten het ogenblik of om haar in een inrichting te stoppen zei Grootmama. Maar omdat Tante Do wel wat anders wilde dan de school besloot ze toch te gaan ondanks de waarschuwingen van Grootmama.
+
+Zo stapte ze in mei 1924 in de Oriëntexpres en reisde drie dagen en drie nachten achter elkaar door. De familie had een coupé voor de baron en de barones, één voor Tante Do en het kind, één voor Fraulein en de baby en één voor de Hollandse huisknecht die Stoutener heette en een schobbejak was vgl. Tante Do) en hun talloze koffers. Tante Do sliep in het bovenste bed en werd de eerste nacht wakker van gehuil. Eerst wist ze zo gauw niet waar ze was en ook niet waar dat gehuil vandaan kwam. Toen herinnerde ze zich het kind: ze keek in het onderste bed maar het kind was weg. Zoeken zoeken, tot bleek dat het kind tussen de zitting en de leuning gevallen was; het kon er niet meer uit, ondanks getrek aan armen en benen. Tante Do is toen maar de ouders uit hun slaap gaan halen en met vereende krachten hebben ze het kind uit de bank getrokken.
+
+---
+
+[![baron_van_nagell](/assets/images/HahnAarsse/small/baron_van_nagell.jpg)](/assets/images/HahnAarsse/full/baron_van_nagell.jpg)
+
+
+1925. Baron van Nagell met zijn zoontje Egbert Joost, die in de Tweede Wereldoorlog als RAF-vlieger is gesneuveld.
+
+
+[![baby_van_nagell](/assets/images/HahnAarsse/small/baby_van_nagell.jpg)](/assets/images/HahnAarsse/full/baby_van_nagell.jpg)
+
+
+Baby van Nagell. Linaia Aug 1924 Egbert Jost v. Nagell
+
+[![do_in_bucarest](/assets/images/HahnAarsse/small/do_in_bucarest.jpg)](/assets/images/HahnAarsse/full/do_in_bucarest.jpg)
+
+
+
+Bucarest, sept. 1924. Tante Do Hahn met Jeanette, Egbert Joost en Fraulein bij de Countryclub
+
+---
+
+Het gezin ging eerst met vacantie in de bergen zoals alle welgestelde lieden uit Boekarest dat deden. Zij gingen naar het vacantieoord Sinaia, een Kurort in de Karpatische Alpen. Daar lag ook het paleis van Karna Silva (?). Toen zij in Sinaia uitstapten met hun bergen koffers, stond er tussen het perron en het station een vrachttrein, geladen met schapevellen. Die trein ging niet weg, zodat het hele gezelschap met koffers en al over en door die schapevellentrein moest klimmen. Op het station stond de Buick van de Nederlandse Ambassade in Boekarest al voor, met de Nederlandse vlag voorop. In die tijd kregen alle auto's van diplomaten voorrang in het verkeer, of het licht nou op rood stond of niet. Als Tante Do alleen in die auto zat reed zij ook door alle rode stoplichten heen.
+
+De familie had een villa gehuurd die tegen een heuvel was aangebouwd. Beneden lagen aan een ongeplaveide weg drie salonkamers aanelkaar, voor de middelste een terras. In die kamers was geen meubilair: er was alleen een schrijfbureau, een divan en een stoel, verder niks, geen gordijnen, geen meubels. Achter de middelste kamer was een open trap naar boven. Daar waren aan de voorkant ook drie kamers (aan de achterkant meer omdat het huis tegen een heuvel was aangebouwd). De middelste van de drie bovenkamers was eetkamer, de ene kamer daarnaast was voor het echtpaar, de andere voor Fraulein en de twee kinderen. Maar waar moest Tante Do slapen? Aan de achterkant van het huis was een buitentrap die naar de bediendenkamers voerde. Daar stand in één van de kamers een wit slaapkamerameublement dat vervolgens naar beneden werd gedragen naar de drie salonkamers en daar sliep Tante Do gedurende de vacantie: in drie kamers zonder gordijnen. Regelmatig werd er gevraagd waar de meubels toch bleven? Dan kwamen er weer een paar rotan stoelen of een doos met allerlei soorten en maten vitrage die dan maar tegen de ramen werd gespijkerd.
+
+Tante Do begon met les te geven in het Hollands in lezen en rekenen. ‘s Middags wandelde ze met het kind dat hardnekkig Duits bleef praten. Totdat Tante Do zei: ' Er is hier pas oorlog geweest met Duitsland, dus als we een politieagent zien dan gaan we expres hard Hollands praten'. Het resultaat was dat het kind in veertien dagen Nederlands sprak; ze kon het best maar ze vertikte het.
+
+Mevrouw van Nagell ging nu naar Boekarest om een ambassade te huren. De vorige Gezant was een vrijgezei en had in een hotel gewoond, vandaar.
+
+---
+
+[![huis_van_nagell__a_](/assets/images/HahnAarsse/small/huis_van_nagell__a_.jpg)](/assets/images/HahnAarsse/full/huis_van_nagell__a_.jpg)
+
+[![huis_van_nagell__b_](/assets/images/HahnAarsse/small/huis_van_nagell__b_.jpg)](/assets/images/HahnAarsse/full/huis_van_nagell__b_.jpg)
+
+	
+Huis van Nagell
+
+
+[![legation_de_pays_bas](/assets/images/HahnAarsse/small/legation_de_pays_bas.jpg)](/assets/images/HahnAarsse/full/legation_de_pays_bas.jpg)
+
+Do Hahn onderwijzeres bij Baron van Nagell April 1924- juli 1925. Legation de Pays Bas, Boulevard Lascar Catargin 30, Bucarest.
+
+
+---
+
+
+Mevrouw van Nagell had inderdaad een afwijking: ze vertrouwde niemand en dacht altijd dat men er op uit was haar te bestelen. Dit leverde de nodige scenes op met het personeel. Tante Do was (in die tijd nog zo onnozel dat ze niet begreep wat de barones bedoelde als ze het had over een rolletje zij dat verdwenen was en dacht dat ze grapjes maakte. Ze reageerde dus niet en ontsnapte zo aan een hoop gekrakeel.
+
+In de vacantieperiode brak de regentijd aan. De villa werd zo vochtig dat bij Tante Do op de kamer de champignons uit de muren groeiden. De bedienden maakten de kachtels aan, maar dat rookte zo erg dat iedereen naar buiten moest: waardoor de barones bronchitis kreeg. Ze besloot toen om niet meer in de eetkamer te eten, maar halverwege de trap. Daar was een klein vierkant plateau'tje waar vaak zon was. De eettafel werd daar neergezet en zo at de familie halverwege de trap terwijl de huisknecht zich langs de trap slingerde met de schalen. Alles geheel officieel, met de baron in smoking en de huisknecht in livrei.
+
+In september ging het gezin eindelijk naar Boekarest. De ambassade lag aan een boulevard, aan de buitenkant van de stad. Als je de boulevard afliep, kwam je bij één van de chausséé's die van het centrum uit naar buiten liepen. Op die chausséé stond een grote triomfboog, maar met een schutting er omheen gebouwd. De figuren op de tromfboog waren door de slechte kwaliteit van het gietwerk hun hoofden en armen kwijtgeraakt; vandaar.
+
+Tot Barones van Nagell kwam was mevrouw Dozy de eerste dame van de Hollandse kolonie geweest. Zij werd nu onttroond en de twee vrouwen hebben elkaar zeer dwars gezeten.
+
+Als mevrouw Dozy op de thee kwam, werd Tante Do ook gevraagd. Dan zei mevrouw Dozy bijvoorbeeld tegen Tante Do: 'U moet eens bij mij op de thee komen. Ik zal de auto sturen'. '0 nee; sprak mevrouw van Nagell dan: 'Geen sprake van, ze gaat met onze wagen'. In Boekarest was een vereniging, de YWCA, waarvan veel adellijke dames lid waren. Die vereniging had een huis waar meisjes konden logeren en waar je ook thee kon drinken. Er kwam niemand: de nette meisjes kwamen daar niet en de minder nette meisjes vonden het daar niet leuk. Movrouw Dozy vond nu dat Tante Do en Fraulein toch zeker daar in dat huis zouden moeten theedrinken. 'Geen sprake van', riep mevrouw van Nagell: ' Tante Do is hier en familie'. Maar zodra was mevrouw Dozy vertrokken, of Tante Do werd meegenomen naar de YWCA. Daar moest ze eens alles vertellen over trouwen met de handschoen. Dat was zo interessant, daar had niemand nog ooit over gehoord. Tante Do was overigens niet zo maar een onderwijzeres; zij was volgens de barones: 'een gekwalificeerde lerares'.
+
+Er waren totaal 13 bedienden (Tante Do en Fraulein meegeteld). De meesten kwamen uit Zevenbergen, dat vroeger van Hongarije was geweest. De barones had de beste kok van Boekarest, die haar door velen werd benijd. Van die kok kreeg Tante Do diverse malen huwlijksaanzoeken, overgebracht door Fraulein als die in de keuken het eten voor baby had klaargemaakt. De kok vond het zo zielig dat Tante Do naar zo'n ver land ging, en dat met die handschoen.
+
+Eénmaal gaven de van Nagells een diner voor de Koninging van Roemenie (de Koning kwam niet, die was altijd dronken). Ook kwamen de Kroonprins en de Kroonprinses eenmaal op de lunch.
+
+Wie denkt dat er tijdens de diners over hoogstaande culturele zaken werd geconverseerd, heeft het mis. Het ging meestal over drie dingen: het eten, de bedienden en de étiquette. Vooral de étiquette was het onderwerp van gesprek, bijvoorbeeld hoeveel knopen er in de plooien van de livrei van de tweede knecht hoorden te zitten .
+
+De baron was een geestig man. Hij had zijn vrouw in Amerika ontmoet en was daar ook getrouwd. Hij vertelde Tante Do, toen ze de trouwfoto's bekeek, dat hij tijdens de trouwplechtigheid het costuum droeg van de Johanniterorde, een rode mantel met een wit kruis. De volgende dag stond er in de Amerikaanse kranten dat de bruigom het costuum droeg van de vossenjacht. Hij vond dat wel leuk, maar mevrouw van Nagell vond het minder grappig.
+
+Jeanette had heel weinig kleren. 's Winters werd ze dik aangekleed, want de sneeuw lag één meter dik. Ze had maar één wollen broekje, waarvan het kruis geheel en al was doorgestopt. Als de wollen broek in de was was, werd er niet gewandeld. Dan verscheen er een bediende met de boodschap: 'Men liet informeren waarom de jonge barones niet uit ging vandaag'. 'Ja, dat ging helaas niet want haar wollen broekje was in de was'. Het jongetje had een trui die geheel vervilt was en lastig aan en uit ging. Tante Do en Fraulein moesten hem samen de trui uittrekken, zo lastig ging dat. Maar, toen hij echte jongenskleren moest hebben werd wel de eerste kleermaker van Boekarest gevraagd. Toen Jeanette naar een balmasqué ging had ze wel een fraai rococo costuumpje aan met een grote pruik (ze stak erg af bij alle Roodkapjes en Hans en Grietjes op het bal) .
+
+Eind juni 1925 ging Tante Do weer terug naar Holland, logeren in 'De Schaffelaar' Daar werd zij 14 dagen lang de hemel ingeprezen. Het kind gedroeg zich voorbeeldig: het rende niet meer om de tafel heen, had handwerkjes voor de hele familie gamaakt en kon zelfs voorlezen uit de bijbel wat de grootouders de tranen in de ogen bracht. 'Wat vinden we het toch jammer dat u gaat trouwen', zeiden ze tegen Tante Do. 'Niemand heeft het zolang met 'haar' uitgehouden als u'. Ze kreeg een prachtig getuigschrift, en later kreeg ze ook brieven van meneer van Nagell, maar het was niet een baantje om langer dan een jaar te doen. Tante Do had al die tijd haast niemand van haar eigen leeftijd ontmoet en was toch betrekkelijk alleen geweest.
+
+Tante Do vond wel dat ze veel had geleerd, zoals het dekken van tafels en bedienen bij allerlei gelegenheden, hoe je officiele brieven moet schrijven enz. enz. Ze leerde ook dat: al was iemand nog zo hoog, er was altijd nog wel iemand anders die nog hoger was.
+
+

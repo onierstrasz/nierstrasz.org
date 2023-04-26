@@ -1,5 +1,5 @@
 ---
-title: "Hahn-Aarsse"
+title: "De familie Hahn-Aarsse"
 permalink: /HahnAarsse/Hahn-Aarsse
 sidebar:
   nav: "hahn-aarsse"
@@ -9,3 +9,133 @@ sidebar:
 # TO FIX
 
 Migrate from [original](https://www.nierstrasz.org/HahnAarsse/Hahn-Aarsse.html)
+
+---
+
+[![Hahn.gif](/assets/images/HahnAarsse/trees/Hahn.gif)](/assets/images/HahnAarsse/trees/Hahn.gif)
+
+|[![dorothea_krellenberg](/assets/images/HahnAarsse/small/dorothea_krellenberg.jpg)](/assets/images/HahnAarsse/full/dorothea_krellenberg.jpg)|[![oma_do_hahn_krellenberg](/assets/images/HahnAarsse/small/oma_do_hahn_krellenberg.jpg)](/assets/images/HahnAarsse/full/oma_do_hahn_krellenberg.jpg)|[![georg_hahn_1890s](/assets/images/HahnAarsse/small/georg_hahn_1890s.jpg)](/assets/images/HahnAarsse/full/georg_hahn_1890s.jpg)|
+| --- | --- | --- |
+| Groszmama Dorothea Hahn-Krellenberg met haar vader, ongeveer 1865. (C. Kindermann Photograph Breitestrasse No 738 Lübeck) | Oma Do Hahn-Krellenberg (1839-1918) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Opa Georg Hahn in 1900 [sic - probably 1890s] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+
+
+
+
+Opa Georg J.C. Hahn was expediteur in Rotterdam. Hij kwam uit Lübeck. Zijn vader, Carl Hahn, getrouwd met Dorothea Krellenberg, had in Lübeck een schrijnwerkerszaak met o.a. kunstmeubelen, maar ook met (fraaie) doodkisten. Dorothea Krellenberg kwam uit een oud geslacht van Hansa-zeevaarders. Haar ene broer Henri (Heinrich) was kapitein ter zee. Zijn twee zonen waren Henri, die naar Amerika is gegaan en Georg, wiens zoon boekhandelaar is in Lübeck; hij heeft 6 á 7 kinderen. De tweede broer van Dorothea Hahn-Krellenberg heette Georg Krellenberg en was Kaufmann van beroep. Hij had drie kinderen: Käthe (trouwde haar neef Nipp), Hans en Georg (ongetrouwd).
+
+Opa Georg J.C. Hahn is in Antwerpen begonnen, bij de Firma Charles Somers & Co. Daarna werd hij door de firma naar Rotterdam gestuurd om daar een filiaal op te richten, waarvan hij procuratiehouder werd. Na de dood van Charles Somers is Opa Georg voor zichzelf begonnen. Hij had een kantoor op de Maaskade, waar ook alle kinderen geboren zijn, en later, na de verhuizing van de familie naar Den Haag, een kantoor op de Boompjes.
+
+Op de Maaskade was beneden het kantoor en de salon; boven op de eerste en de tweede verdieping was het woonhuis. Opa Georg ging iedere dag naar de Koopmansbeurs. Hij verzorgde het overladen van. schepen, vooral voor transito. Hij had een talenknobbel en sprak een stuk of 8 talen.
+
+Toen in 1909 grootmoeder Wilhelmina Aarsse-Fritz stierf, moest Oma Hahn voor haar vader in Den Haag zorgen. Het hele gezin verhuisde naar de Francois Valentijnstraat, nr. 125, met een dubbel bovenhuis. Boven was een grote speelzolder, waar een poppenhuis stond en treintjes, soldaatjes en forten (dat laatste heeft Opa Louis aan de broertjes van Oma Louis gegeven, voordat hij vroeg of hij met haar mocht trouwen.
+
+Opa Georg ging iedere dag met de trein naar Rotterdam naar zijn werk. Als hij dan 's avonds thuis kwam, hoorde Opa Louis zijn vader aankomen; hij liep n.I. met één voet op het trottoir en met de andere op straat. Dus: kon Opa nog net op tijd thuis zijn om zich te wassen, na het vissen in de Schenk. Opa Georg ging ook op zondagmorgen naar Rotterdam, want hij was ouderling van de Duitse Kerk in Rotterdam en dat nam hij heel serieus. Zondagmiddag ging het hele gezin wandelen.
+
+Tijdens de oorlog had Opa Georg Hahn praktisch geen inkomsten. De hele handel lag stil. Hij heeft bijna alles moeten interen van wat hij had opgebouwd.
+
+In 1917 werd Opa Georg opgeroepen voor militaire dienst in Duitsland. Hij had zich natuurlijk kunnen laten naturaliseren maar dat deed hij niet omdat het oorlog was. Hij vond dat een laffe manier om zich aan zijn nationaliteit te ontrekken. Hij had al een keer uitstel gekregen, maar die kreeg hij nu niet meer, omdat hij een compagnon had die genaturaliseerd was en de zaak kon waarnemen. Opa Georg heeft nooit gevochten. Hij werkte in het krijgsgevangenenkamp omdat hij zo goed Frans en Engels sprak.
+
+In 1918 werd hij ziek. Oma Hahn ging in augustus naar Lübeck waar hij in een lazaret lag. Hij stierf op 29 november. Een week later stierf zijn moeder, Dorothea Hahn-Krellenberg aan een combinatie van Spaanse griep en longontsteking.
+
+---
+
+
+[![georg_hahn_verlovingsfoto](/assets/images/HahnAarsse/small/georg_hahn_verlovingsfoto.jpg)](/assets/images/HahnAarsse/full/georg_hahn_verlovingsfoto.jpg)
+
+
+Georg Hahn 1870-1918 verloofd met Jo Aarsse 1878-1960 [Photo 1901?]
+
+[![jo_aarsse_verlovingsfoto](/assets/images/HahnAarsse/small/jo_aarsse_verlovingsfoto.jpg)](/assets/images/HahnAarsse/full/jo_aarsse_verlovingsfoto.jpg)
+
+
+Jo Aarsse 1878-1960 verlovingsfoto. Verloofd met Georg Hahn 1870-1918
+
+[![hahn_aarsse_verloofd](/assets/images/HahnAarsse/small/hahn_aarsse_verloofd.jpg)](/assets/images/HahnAarsse/full/hahn_aarsse_verloofd.jpg)
+
+1901, verloofd. Oma en Opa Hahn-Aarse in de tuin van het huis aan de Maaskade, Rotterdam.
+
+[![hahn_aarsse_verloving](/assets/images/HahnAarsse/small/hahn_aarsse_verloving.jpg)](/assets/images/HahnAarsse/full/hahn_aarsse_verloving.jpg)
+
+
+1901 - Verlovingsfeest van Oma en Opa Hahn-Aarsse in Lübeck. Van links naar rechts: Tante Betty Hahn, Oma en Opa Hahn, daarvoor Groszmama tussen Gertrud en Lenie Lichtwark in; daarachter Tante Mathilde en Onkel Carl Lichtwark-Hahn, met zoontje Carl, en [Mathilde?]
+
+---
+
+
+[![clara_hahn_en_jet_aarsse](/assets/images/HahnAarsse/small/clara_hahn_en_jet_aarsse.jpg)](/assets/images/HahnAarsse/full/clara_hahn_en_jet_aarsse.jpg)
+
+
+1902. Clara Hahn en Jet Aaarsse, bruidsmeisjes van Jo en Georg Hahn-Aarsse. Getrouwd in de Waalse kerk
+
+[![hahn_aarsse_marriage](/assets/images/HahnAarsse/small/hahn_aarsse_marriage.jpg)](/assets/images/HahnAarsse/full/hahn_aarsse_marriage.jpg)
+
+
+20 juni 1902. Marriage of Georg Hahn and Johanna Catharina Aarsse
+
+[![jet_aarse_en_clara_hahn](/assets/images/HahnAarsse/small/jet_aarse_en_clara_hahn.jpg)](/assets/images/HahnAarsse/full/jet_aarse_en_clara_hahn.jpg)
+
+
+Jet Aarse en Clara Hahn. De twee bruidsmeisjes [Hahn-Aarsse marriage, 1902]
+
+
+---
+
+
+[![do_louis_en_jet_hahn](/assets/images/HahnAarsse/full/do_louis_en_jet_hahn.jpg)](/assets/images/HahnAarsse/full/do_louis_en_jet_hahn.jpg)
+
+
+Do, Louis en Jet Hahn
+
+---
+
+
+[![baby_do_hahn](/assets/images/HahnAarsse/small/baby_do_hahn.jpg)](/assets/images/HahnAarsse/full/baby_do_hahn.jpg)
+
+
+Baby Do Hahn
+
+[![oma_do_en_do_hahn](/assets/images/HahnAarsse/small/oma_do_en_do_hahn.jpg)](/assets/images/HahnAarsse/full/oma_do_en_do_hahn.jpg)
+
+
+Groszmama Dorothea Hahn-Krellenberg met Tante Do Hahn, 1904.
+
+---
+
+[![do_louis_en_jet_1906](/assets/images/HahnAarsse/small/do_louis_en_jet_1906.jpg)](/assets/images/HahnAarsse/full/do_louis_en_jet_1906.jpg)
+
+
+Do, Louis en Jet Hahn. Toen we nog op de Maaskade in Rotterdam woonden ~1906
+
+[![louis_jetje_jo_en_do](/assets/images/HahnAarsse/small/louis_jetje_jo_en_do.jpg)](/assets/images/HahnAarsse/full/louis_jetje_jo_en_do.jpg)
+
+
+Louis, Jetje, Jo en Do Hahn. 1908 In de tuin van het huis aan de maaskade, in Rotterdam. Met Jo Ledeboer.
+
+---
+
+[![kakschooltje](/assets/images/HahnAarsse/small/kakschooltje.jpg)](/assets/images/HahnAarsse/full/kakschooltje.jpg)
+
+
+Kakschooltje in Rotterdam. Do en Lou Hahn
+
+[![do_jet_en_louis1912](/assets/images/HahnAarsse/small/do_jet_en_louis1912.jpg)](/assets/images/HahnAarsse/full/do_jet_en_louis1912.jpg)
+
+
+Do, Louis en Jet Hahn. 1912
+
+---
+
+[![carl_lichtwark](/assets/images/HahnAarsse/small/carl_lichtwark.jpg)](/assets/images/HahnAarsse/full/carl_lichtwark.jpg)
+
+
+Onkel Carl [sic - Karl] Lichtwark (photo taken after 1895)
+
+[![hahn_sisters_house](/assets/images/HahnAarsse/small/hahn_sisters_house.jpg)](/assets/images/HahnAarsse/full/hahn_sisters_house.jpg)
+
+
+House where Clara and Betty Hahn and Mathilde Lichtwark - Hahn lived in 1931
+
+[![marienkirchhof_luebeck](/assets/images/HahnAarsse/small/marienkirchhof_luebeck.jpg)](/assets/images/HahnAarsse/full/marienkirchhof_luebeck.jpg)
+
+
+Het huis aan de Mariënkirchhof in Lübeck, waar de twee tantes Betty en Clara Hahn en tante Mathilde en Onkel Carl Lichtwark wonen.
