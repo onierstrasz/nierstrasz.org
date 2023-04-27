@@ -5,21 +5,11 @@ sidebar:
   nav: "hahn-aarsse"
 ---
 
-
-# TO FIX
-
-Migrate from [original](https://www.nierstrasz.org/HahnAarsse/Hahn-Aarsse.html)
-
----
-
 [![Hahn.gif](/assets/images/HahnAarsse/trees/Hahn.gif)](/assets/images/HahnAarsse/trees/Hahn.gif)
 
 |[![dorothea_krellenberg](/assets/images/HahnAarsse/small/dorothea_krellenberg.jpg)](/assets/images/HahnAarsse/full/dorothea_krellenberg.jpg)|[![oma_do_hahn_krellenberg](/assets/images/HahnAarsse/small/oma_do_hahn_krellenberg.jpg)](/assets/images/HahnAarsse/full/oma_do_hahn_krellenberg.jpg)|[![georg_hahn_1890s](/assets/images/HahnAarsse/small/georg_hahn_1890s.jpg)](/assets/images/HahnAarsse/full/georg_hahn_1890s.jpg)|
 | --- | --- | --- |
 | Groszmama Dorothea Hahn-Krellenberg met haar vader, ongeveer 1865. (C. Kindermann Photograph Breitestrasse No 738 Lübeck) | Oma Do Hahn-Krellenberg (1839-1918) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Opa Georg Hahn in 1900 [sic - probably 1890s] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-
-
-
 
 Opa Georg J.C. Hahn was expediteur in Rotterdam. Hij kwam uit Lübeck. Zijn vader, Carl Hahn, getrouwd met Dorothea Krellenberg, had in Lübeck een schrijnwerkerszaak met o.a. kunstmeubelen, maar ook met (fraaie) doodkisten. Dorothea Krellenberg kwam uit een oud geslacht van Hansa-zeevaarders. Haar ene broer Henri (Heinrich) was kapitein ter zee. Zijn twee zonen waren Henri, die naar Amerika is gegaan en Georg, wiens zoon boekhandelaar is in Lübeck; hij heeft 6 á 7 kinderen. De tweede broer van Dorothea Hahn-Krellenberg heette Georg Krellenberg en was Kaufmann van beroep. Hij had drie kinderen: Käthe (trouwde haar neef Nipp), Hans en Georg (ongetrouwd).
 
@@ -59,55 +49,25 @@ Do, Louis en Jet Hahn
 
 ---
 
-# CONTINUE HERE
-
-[![baby_do_hahn](/assets/images/HahnAarsse/small/baby_do_hahn.jpg)](/assets/images/HahnAarsse/full/baby_do_hahn.jpg)
-
-
-Baby Do Hahn
-
-[![oma_do_en_do_hahn](/assets/images/HahnAarsse/small/oma_do_en_do_hahn.jpg)](/assets/images/HahnAarsse/full/oma_do_en_do_hahn.jpg)
-
-
-Groszmama Dorothea Hahn-Krellenberg met Tante Do Hahn, 1904.
+|[![baby_do_hahn](/assets/images/HahnAarsse/small/baby_do_hahn.jpg)](/assets/images/HahnAarsse/full/baby_do_hahn.jpg)|[![oma_do_en_do_hahn](/assets/images/HahnAarsse/small/oma_do_en_do_hahn.jpg)](/assets/images/HahnAarsse/full/oma_do_en_do_hahn.jpg)|
+| --- | --- |
+| Baby Do Hahn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Groszmama Dorothea Hahn-Krellenberg met Tante Do Hahn, 1904. |
 
 ---
 
-[![do_louis_en_jet_1906](/assets/images/HahnAarsse/small/do_louis_en_jet_1906.jpg)](/assets/images/HahnAarsse/full/do_louis_en_jet_1906.jpg)
-
-
-Do, Louis en Jet Hahn. Toen we nog op de Maaskade in Rotterdam woonden ~1906
-
-[![louis_jetje_jo_en_do](/assets/images/HahnAarsse/small/louis_jetje_jo_en_do.jpg)](/assets/images/HahnAarsse/full/louis_jetje_jo_en_do.jpg)
-
-
-Louis, Jetje, Jo en Do Hahn. 1908 In de tuin van het huis aan de maaskade, in Rotterdam. Met Jo Ledeboer.
+|[![do_louis_en_jet_1906](/assets/images/HahnAarsse/small/do_louis_en_jet_1906.jpg)](/assets/images/HahnAarsse/full/do_louis_en_jet_1906.jpg)|[![louis_jetje_jo_en_do](/assets/images/HahnAarsse/small/louis_jetje_jo_en_do.jpg)](/assets/images/HahnAarsse/full/louis_jetje_jo_en_do.jpg)|
+| --- | --- |
+| Do, Louis en Jet Hahn. Toen we nog op de Maaskade in Rotterdam woonden ~1906 | Louis, Jetje, Jo en Do Hahn. 1908 In de tuin van het huis aan de maaskade, in Rotterdam. Met Jo Ledeboer. |
 
 ---
 
-[![kakschooltje](/assets/images/HahnAarsse/small/kakschooltje.jpg)](/assets/images/HahnAarsse/full/kakschooltje.jpg)
-
-
-Kakschooltje in Rotterdam. Do en Lou Hahn
-
-[![do_jet_en_louis1912](/assets/images/HahnAarsse/small/do_jet_en_louis1912.jpg)](/assets/images/HahnAarsse/full/do_jet_en_louis1912.jpg)
-
-
-Do, Louis en Jet Hahn. 1912
+|[![kakschooltje](/assets/images/HahnAarsse/small/kakschooltje.jpg)](/assets/images/HahnAarsse/full/kakschooltje.jpg)|[![do_jet_en_louis1912](/assets/images/HahnAarsse/small/do_jet_en_louis1912.jpg)](/assets/images/HahnAarsse/full/do_jet_en_louis1912.jpg)|
+| --- | --- |
+| Kakschooltje in Rotterdam. Do en Lou Hahn. | Do, Louis en Jet Hahn. 1912 |
 
 ---
 
-[![carl_lichtwark](/assets/images/HahnAarsse/small/carl_lichtwark.jpg)](/assets/images/HahnAarsse/full/carl_lichtwark.jpg)
+|[![carl_lichtwark](/assets/images/HahnAarsse/small/carl_lichtwark.jpg)](/assets/images/HahnAarsse/full/carl_lichtwark.jpg)|[![hahn_sisters_house](/assets/images/HahnAarsse/small/hahn_sisters_house.jpg)](/assets/images/HahnAarsse/full/hahn_sisters_house.jpg)|[![marienkirchhof_luebeck](/assets/images/HahnAarsse/small/marienkirchhof_luebeck.jpg)](/assets/images/HahnAarsse/full/marienkirchhof_luebeck.jpg)|
+| --- | --- | --- |
+| Onkel Carl [sic - Karl] Lichtwark (photo taken after 1895) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | House where Clara and Betty Hahn and Mathilde Lichtwark - Hahn lived in 1931 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Het huis aan de Mariënkirchhof in Lübeck, waar de twee tantes Betty en Clara Hahn en tante Mathilde en Onkel Carl Lichtwark wonen. |
 
-
-Onkel Carl [sic - Karl] Lichtwark (photo taken after 1895)
-
-[![hahn_sisters_house](/assets/images/HahnAarsse/small/hahn_sisters_house.jpg)](/assets/images/HahnAarsse/full/hahn_sisters_house.jpg)
-
-
-House where Clara and Betty Hahn and Mathilde Lichtwark - Hahn lived in 1931
-
-[![marienkirchhof_luebeck](/assets/images/HahnAarsse/small/marienkirchhof_luebeck.jpg)](/assets/images/HahnAarsse/full/marienkirchhof_luebeck.jpg)
-
-
-Het huis aan de Mariënkirchhof in Lübeck, waar de twee tantes Betty en Clara Hahn en tante Mathilde en Onkel Carl Lichtwark wonen.
