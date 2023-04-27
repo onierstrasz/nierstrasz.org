@@ -5,19 +5,7 @@ sidebar:
   nav: "hahn-aarsse"
 ---
 
-
-# TO FIX
-
-Migrate from [original](https://www.nierstrasz.org/HahnAarsse/NaDeOorlog.html)
-
----
-
-[![oma_hahn_en_lcg_hahn](/assets/images/HahnAarsse/small/oma_hahn_en_lcg_hahn.jpg)](/assets/images/HahnAarsse/full/oma_hahn_en_lcg_hahn.jpg)
-
-
-Oma Hahn en L.C.G. Hahn geb. 8.11.46. Foto 8 Nov 1947.
-
-
+|[![oma_hahn_en_lcg_hahn](/assets/images/HahnAarsse/small/oma_hahn_en_lcg_hahn.jpg)](/assets/images/HahnAarsse/full/oma_hahn_en_lcg_hahn.jpg)| Oma Hahn en L.C.G. Hahn geb. 8.11.46. Foto 8 Nov 1947. |
 
 Na Opa Georgs dood mocht Oma Jo Hahn-Aarsse eerst niet terug naar Nederland, omdat ze Duitse was. Na drie weken praten kreeg ze toestemming. In Nederland vroeg ze direct naturalisatie aan.
 
@@ -35,59 +23,27 @@ Opa Aarsse was een allerliefste man. Opa Georg Hahn was erg streng. Hij had een 
 
 ---
 
-[![apeldoorn](/assets/images/HahnAarsse/small/apeldoorn.jpg)](/assets/images/HahnAarsse/full/apeldoorn.jpg)
-
-Huis Oma Hahn in Apeldoorn (achterkant)
-
-[![luebeck](/assets/images/HahnAarsse/small/luebeck.jpg)](/assets/images/HahnAarsse/full/luebeck.jpg)
-
-
-Lübeck. Postcard from Paul & Jet to Joke, 1986
-
-
-[![aalsmeer](/assets/images/HahnAarsse/small/aalsmeer.jpg)](/assets/images/HahnAarsse/full/aalsmeer.jpg)
-
-
-Aalsmeer “t huis v.d. bruid! [Oma Hahn with ?]
-
-
-[![oma_hahn](/assets/images/HahnAarsse/small/oma_hahn.jpg)](/assets/images/HahnAarsse/full/oma_hahn.jpg)
-
-
-Oma Hahn. [reverse reads: "B.xC."]
+|[![apeldoorn](/assets/images/HahnAarsse/small/apeldoorn.jpg)](/assets/images/HahnAarsse/full/apeldoorn.jpg)|[![luebeck](/assets/images/HahnAarsse/small/luebeck.jpg)](/assets/images/HahnAarsse/full/luebeck.jpg)|[![aalsmeer](/assets/images/HahnAarsse/small/aalsmeer.jpg)](/assets/images/HahnAarsse/full/aalsmeer.jpg)|[![oma_hahn](/assets/images/HahnAarsse/small/oma_hahn.jpg)](/assets/images/HahnAarsse/full/oma_hahn.jpg)|
+| --- | --- | --- | --- |
+| Huis Oma Hahn in Apeldoorn (achterkant) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Lübeck. Postcard from Paul & Jet to Joke, 1986 | Aalsmeer “t huis v.d. bruid! [Oma Hahn with ?] | Oma Hahn. [reverse reads: "B.xC."] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
 ---
 
 
-[![lichtwark_family](/assets/images/HahnAarsse/small/lichtwark_family.jpg)](/assets/images/HahnAarsse/full/lichtwark_family.jpg)
-
-
-
-21.1.1960 Oma Hahn wake. Front: Gertrud Lichtwark, Mathilde Lichtwark-Hahn, Leni Jordan-Lichtwark. Back: Resi Lichtwark, Carl Lichtwark.
-
-
-[![hahn_sisters](/assets/images/HahnAarsse/small/hahn_sisters.jpg)](/assets/images/HahnAarsse/full/hahn_sisters.jpg)
-
-
-21.1.1960 Oma Hahn wake. Front: Clara Hahn, Mathilde Hahn, Betty Hahn, Hanna Hahn?. Back: Leni, Resi, Karl, Gertrud, Rudolf Ude? ...
-
-[![hahn_gravestone](/assets/images/HahnAarsse/small/hahn_gravestone.jpg)](/assets/images/HahnAarsse/full/hahn_gravestone.jpg)
-
-Hahn gravestone, Lübeck
+|[![lichtwark_family](/assets/images/HahnAarsse/small/lichtwark_family.jpg)](/assets/images/HahnAarsse/full/lichtwark_family.jpg)|[![hahn_sisters](/assets/images/HahnAarsse/small/hahn_sisters.jpg)](/assets/images/HahnAarsse/full/hahn_sisters.jpg)|[![hahn_gravestone](/assets/images/HahnAarsse/small/hahn_gravestone.jpg)](/assets/images/HahnAarsse/full/hahn_gravestone.jpg)|
+| --- | --- | --- | 
+|21.1.1960 Oma Hahn wake. Front: Gertrud Lichtwark, Mathilde Lichtwark-Hahn, Leni Jordan-Lichtwark. Back: Resi Lichtwark, Carl Lichtwark.|21.1.1960 Oma Hahn wake. Front: Clara Hahn, Mathilde Hahn, Betty Hahn, Hanna Hahn?. Back: Leni, Resi, Karl, Gertrud, Rudolf Ude? ...| Hahn gravestone, Lübeck &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
 ---
 
 
-# Oma Hahn - Memoir
+# Oma Hahn — Memoir
 
 ---
 
 
-[![oma_hahn_memoir](/assets/images/HahnAarsse/small/oma_hahn_memoir.jpg)](/assets/images/HahnAarsse/full/oma_hahn_memoir.jpg)
-
-
-Oma Hahn memoir [source unknown]
+|[![oma_hahn_memoir](/assets/images/HahnAarsse/small/oma_hahn_memoir.jpg)](/assets/images/HahnAarsse/full/oma_hahn_memoir.jpg)|Oma Hahn's memoir [source unknown]|
 
 
 Weinig hadden we op Oudejaarsavond kunnen vermoeden, toen ik voor U het Jaar 1959 samenvatte, en we op de Ziekenkamer een ernstige patient wisten, dat wij hier bijeen zouden moeten komen nog voor het jaar een maand oud was om afscheid te nemen, niet van haar die al zoveel weken ziek is, maar van Mme Hahn, die Vrijdag nog vrolijk en opgewekt aan het middagmaal deel nam, en die we diezelfde middag uit ons midden zouden moeten missen.
@@ -96,7 +52,7 @@ U weet allen, dat ik Mme Hahn van kind af aan heb gekend en ik zou dus uit een r
 
 Altijd heb ik haar gekend als een soort al-moeder. Wie maar hulp nodig had, het komt er niet op aan op welk gebied, kon bij haar terecht. En dezer dagen heb ik in huis vele opmerkingen gehoord, die allen hierop neer kwamen, dat zij tot steun en hulp voor ieder was geweest, in het bijzonder voor haar buurtjes.
 
-En dit alles ondanks het moeilijke en zware leven dat zij achter zich had, met een benijdenswaardige en schier niet te evenaren opgewektheid. Altijd zocht zij de zonzijde, altijd toonde zij een goed humeur. Iemand vroeg haar eens : “Maar bent U nu nooit eens uit Uw humeur? - En karakteristiek was haar antwoord : “Ja zeker. maar alleen als de deur van mijn kamer dicht is. -
+En dit alles ondanks het moeilijke en zware leven dat zij achter zich had, met een benijdenswaardige en schier niet te evenaren opgewektheid. Altijd zocht zij de zonzijde, altijd toonde zij een goed humeur. Iemand vroeg haar eens : “Maar bent U nu nooit eens uit Uw humeur? — En karakteristiek was haar antwoord : “Ja zeker. maar alleen als de deur van mijn kamer dicht is. —
 
 Ja, haar kamer! Nog de dag voordat zij werd weggenomen, uitte zij haar erkentelijkheid voor het eigen hoekje, dat zij bij ons had, waarvan zij haar koninkrijkje had weten te maken. Zij voelde zich hier echt “thuis” en vrij, en ik mag wel zeggen: gelukkig. En U zult zich kunnen voorstellen hoe blij ikzelf daarmee was. Ik gunde haar zo graag deze rustige 1e vensavond, want het was een rust na stormen en orkanen.
 

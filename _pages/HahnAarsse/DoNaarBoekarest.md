@@ -5,19 +5,7 @@ sidebar:
   nav: "hahn-aarsse"
 ---
 
-
-# TO FIX
-
-Migrate from [original](https://www.nierstrasz.org/HahnAarsse/DoNaarBoekarest.html)
-
----
-
-[![do_1924](/assets/images/HahnAarsse/small/do_1924.jpg)](/assets/images/HahnAarsse/full/do_1924.jpg)
-
-
-
-Pasfoto van Tante Do Hahn, mei 1924
-
+|[![do_1924](/assets/images/HahnAarsse/small/do_1924.jpg)](/assets/images/HahnAarsse/full/do_1924.jpg)|Pasfoto van Tante Do Hahn, mei 1924|
 
 In de huiskamer leest Opa Aarsse de krant, Oma Hahn schrijft brieven, Tante Jettie maakt Nederlands voor school; één kachel voor het hele gezin. Dan zegt Opa: 'Zeg Do, is dit niets voor jou? Barones van Nagell zoekt per advertentie een onderwijzeres voor haar zevenjarig dochtertje. Het gezin woont in Boekarest' . 'Ja', zegt Tante Do: 'Dat lijkt me wel wat'. Waarop Oma een schoon blaadje briefpapier neemt en begint te schrijven. Wat zet je nu bovenaan zo'n brief? Tante Jettie zoekt het op in haar Nederlandse boek, en Oma schrijft: 'Hoogedelwelgeboren Vrouwe'. Daarna zegt ieder om de beurt één zin.
 
@@ -31,22 +19,9 @@ Zo stapte ze in mei 1924 in de Oriëntexpres en reisde drie dagen en drie nachte
 
 ---
 
-[![baron_van_nagell](/assets/images/HahnAarsse/small/baron_van_nagell.jpg)](/assets/images/HahnAarsse/full/baron_van_nagell.jpg)
-
-
-1925. Baron van Nagell met zijn zoontje Egbert Joost, die in de Tweede Wereldoorlog als RAF-vlieger is gesneuveld.
-
-
-[![baby_van_nagell](/assets/images/HahnAarsse/small/baby_van_nagell.jpg)](/assets/images/HahnAarsse/full/baby_van_nagell.jpg)
-
-
-Baby van Nagell. Linaia Aug 1924 Egbert Jost v. Nagell
-
-[![do_in_bucarest](/assets/images/HahnAarsse/small/do_in_bucarest.jpg)](/assets/images/HahnAarsse/full/do_in_bucarest.jpg)
-
-
-
-Bucarest, sept. 1924. Tante Do Hahn met Jeanette, Egbert Joost en Fraulein bij de Countryclub
+|[![baron_van_nagell](/assets/images/HahnAarsse/small/baron_van_nagell.jpg)](/assets/images/HahnAarsse/full/baron_van_nagell.jpg)|[![baby_van_nagell](/assets/images/HahnAarsse/small/baby_van_nagell.jpg)](/assets/images/HahnAarsse/full/baby_van_nagell.jpg)|[![do_in_bucarest](/assets/images/HahnAarsse/small/do_in_bucarest.jpg)](/assets/images/HahnAarsse/full/do_in_bucarest.jpg)|
+| --- | --- | --- |
+| 1925. Baron van Nagell met zijn zoontje Egbert Joost, die in de Tweede Wereldoorlog als RAF-vlieger is gesneuveld.| Baby van Nagell. Linaia Aug 1924 Egbert Jost v. Nagell &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Bucarest, sept. 1924. Tante Do Hahn met Jeanette, Egbert Joost en Fraulein bij de Countryclub &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 ---
 
@@ -60,18 +35,9 @@ Mevrouw van Nagell ging nu naar Boekarest om een ambassade te huren. De vorige G
 
 ---
 
-[![huis_van_nagell__a_](/assets/images/HahnAarsse/small/huis_van_nagell__a_.jpg)](/assets/images/HahnAarsse/full/huis_van_nagell__a_.jpg)
+|[![huis_van_nagell__a_](/assets/images/HahnAarsse/small/huis_van_nagell__a_.jpg)](/assets/images/HahnAarsse/full/huis_van_nagell__a_.jpg)|[![huis_van_nagell__b_](/assets/images/HahnAarsse/small/huis_van_nagell__b_.jpg)](/assets/images/HahnAarsse/full/huis_van_nagell__b_.jpg)| Huis van Nagell |
 
-[![huis_van_nagell__b_](/assets/images/HahnAarsse/small/huis_van_nagell__b_.jpg)](/assets/images/HahnAarsse/full/huis_van_nagell__b_.jpg)
-
-	
-Huis van Nagell
-
-
-[![legation_de_pays_bas](/assets/images/HahnAarsse/small/legation_de_pays_bas.jpg)](/assets/images/HahnAarsse/full/legation_de_pays_bas.jpg)
-
-Do Hahn onderwijzeres bij Baron van Nagell April 1924- juli 1925. Legation de Pays Bas, Boulevard Lascar Catargin 30, Bucarest.
-
+|[![legation_de_pays_bas](/assets/images/HahnAarsse/small/legation_de_pays_bas.jpg)](/assets/images/HahnAarsse/full/legation_de_pays_bas.jpg)| Do Hahn onderwijzeres bij Baron van Nagell April 1924- juli 1925. Legation de Pays Bas, Boulevard Lascar Catargin 30, Bucarest. |
 
 ---
 

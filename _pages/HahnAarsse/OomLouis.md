@@ -5,25 +5,7 @@ sidebar:
   nav: "hahn-aarsse"
 ---
 
-
-# TO FIX
-
-Migrate from [original](https://www.nierstrasz.org/HahnAarsse/OomLouis.html)
-
-
----
-
-
-
-[![lcg_hahn](/assets/images/HahnAarsse/small/lcg_hahn.jpg)](/assets/images/HahnAarsse/full/lcg_hahn.jpg)
-
-
-
-[![lcg_hahn_article](/assets/images/HahnAarsse/small/lcg_hahn_article.jpg)](/assets/images/HahnAarsse/full/lcg_hahn_article.jpg)
-
-
-
-LCG Hahn article
+|[![lcg_hahn_article](/assets/images/HahnAarsse/small/lcg_hahn_article.jpg)](/assets/images/HahnAarsse/full/lcg_hahn_article.jpg)|LCG Hahn article|
 
 
 Op 6 juni is het 50 jaar geleden dat Br.·. L. C. G. Hahn werd ingewijd in de A.·. L .·. 'Deli', O.·. Medan. In die dagen was het werken en leven op een oliepalmonderneming nog echte pioniers-arbeid. Vanwege de grote afstanden was regelmatig logebezoek niet mogelijk. De loge 'Deli' was echter in het bezit van een uitgebreide bibliotheek en als Br.·. Hahn, na bezoek aan zijn werkplaats huiswaarts keerde dan werd een ware vracht boeken ter bestudering meegenomen.
@@ -33,14 +15,6 @@ Na de oorlog en de bijzonder moeilijke periode daarna, het gezin van Br.·. Hahn
 
 Mede door de oud-Deliaan Br.·. Klooster — de dichter 'Willem Brandt' — werd Br.·. Hahn lid van de A.·. L.·. 'Willem Fredrik', O.·. Amsterdam. Al spoedig werd hij geroepen tot de functie van Voorzittend Meester. Na een periode van vier jaar, werd hij gevraagd om nog eens drie jaar als zodanig op te treden. Gedurende deze jaren, vooral ook toen er spanningen optraden, deed Br.·. Hahn zich kennen als een voortreffelijk leider. Voorzichtig, wijs en een elk in zijn waarde latende stuurde hij het schip, dat soms hevig tekeer ging, in de goede richting. Nu in het jaar van zijn jubileum, is het hem als Meester van Eer gegeven om de groei en eendracht weer te mogen meemaken. Over de aktiviteiten van Br.·. Hahn als denker en publicist zou veel te zeggen zijn. Van hem als mede-oprichter en voorzitter van het Nederlands Filosofisch Genootschap zijn zeer veel publicaties verschenen. Ook in 'Landmerk' verschenen diverse studies van zijn hand. Zijn vertaling in het Nederlands van Hegel's 'Pheanomenologie des Geistes' wordt in vakkringen geroemd. In maçonnieke kring is hij een 'reizend bouwvakker' zoals hij zichzelve wel gekscherend pleegt te noemen. Steeds aan de arbeid, opgewekt en vol humor is hij immer bereid de Bbr .·. die oprecht willen zoeken naar Waarheid een weg te wijzen.
 
-[![jet_en_lu](/assets/images/HahnAarsse/small/jet_en_lu.jpg)](/assets/images/HahnAarsse/full/jet_en_lu.jpg)
-
-
-Louis Hahn en Lu en Jet Hahn - Mooij
-
-[![jet_60th_birthday](/assets/images/HahnAarsse/small/jet_60th_birthday.jpg)](/assets/images/HahnAarsse/full/jet_60th_birthday.jpg)
-
-
-Jet 60th birthday. Lou, Henri Aarsse, Jet, Joke
-
-
+|[![jet_en_lu](/assets/images/HahnAarsse/small/jet_en_lu.jpg)](/assets/images/HahnAarsse/full/jet_en_lu.jpg)|[![jet_60th_birthday](/assets/images/HahnAarsse/small/jet_60th_birthday.jpg)](/assets/images/HahnAarsse/full/jet_60th_birthday.jpg)|
+| --- | --- |
+| Louis Hahn en Lu en Jet Hahn - Mooij| Jet 60th birthday. Lou, Henri Aarsse, Jet, Joke |

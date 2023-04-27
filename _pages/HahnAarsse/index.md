@@ -5,13 +5,7 @@ sidebar:
   nav: "hahn-aarsse"
 ---
 
-# TODO
-
-**NB:** to be migrated from [the HTML version](https://www.nierstrasz.org/HahnAarsse/index.html)
-
----
-
-Text provided by Joke Sebus-Hahn, from conversations with Do Bosscha-Hahn.
+Tekst van Joke Sebus-Hahn, uit gesprekken met Do Bosscha-Hahn.
 
 # Inhoud
 
@@ -19,11 +13,9 @@ Text provided by Joke Sebus-Hahn, from conversations with Do Bosscha-Hahn.
 
 # I. Familie Fritz - de Ridder - de Grauw
 
-___CONTINUE HERE___
-
-- [Tante Victoire Fritz - d'Oultremont](/HahnAarsse/TanteVictoire) ___TO FIX___
+- [Tante Victoire Fritz - d'Oultremont](/HahnAarsse/TanteVictoire)
 - [Tante Henriëtte Kapeller - de Ridder en Onkel Bruno Hoffmann](/HahnAarsse/HenrietteDeRidder)
-- [Tante Lydia Willkomm - de Ridder](/HahnAarsse/LydiaDeRidder)  ___TO DO___
+- [Tante Lydia Willkomm - de Ridder](/HahnAarsse/LydiaDeRidder)
 
 # II. Familie Aarse - Fritz
 
