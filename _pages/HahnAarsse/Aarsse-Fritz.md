@@ -5,18 +5,16 @@ sidebar:
   nav: "hahn-aarsse"
 ---
 
-
 # Wilhelmina Fritz 1844 x Louis Aarsse 1843
 
 [![Aarsse.gif](/assets/images/HahnAarsse/trees/Aarsse.gif)](/assets/images/HahnAarsse/trees/Aarsse.gif)
 
+# De familie Aarsse
 
-# De familie Aarsse.
+|[![aarsse_fritz_1907](/assets/images/HahnAarsse/small/aarsse_fritz_1907.jpg)](/assets/images/HahnAarsse/full/aarsse_fritz_1907.jpg)| 1907, 4 maart. Grootmoeder en Grootvader Aarsse-Fritz met hun kleinzoon Louis Hahn.
 
-|[![aarsse_fritz_1907](/assets/images/HahnAarsse/small/aarsse_fritz_1907.jpg)](/assets/images/HahnAarsse/full/aarsse_fritz_1907.jpg)|[![aarsse_fritz_1899_strand](/assets/images/HahnAarsse/small/aarsse_fritz_1899_strand.jpg)](/assets/images/HahnAarsse/full/aarsse_fritz_1899_strand.jpg)| 
-| --- | --- | --- |
-| 1907, 4 maart. Grootmoeder en Grootvader Aarsse-Fritz met hun kleinzoon Louis Hahn.| De familie Aarsse-Fritz op het strand in Scheveningen. 1899.  | |
-| | In de strandstoelen Oma en Opa Aarsse-Fritz. Daarvoor tante Jet (Aarsse), Oma (Jo Aarsse) en Oom Charles. |
+|[![aarsse_fritz_1899_strand](/assets/images/HahnAarsse/small/aarsse_fritz_1899_strand.jpg)](/assets/images/HahnAarsse/full/aarsse_fritz_1899_strand.jpg)| De familie Aarsse-Fritz op het strand in Scheveningen. 1899. In de strandstoelen Oma en Opa Aarsse-Fritz. Daarvoor tante Jet (Aarsse), Oma (Jo Aarsse) en Oom Charles. |
+
 
 _Louis Johan Jacobus Aarsse_, 1843-1926, was huisschilder en glazenmaker van beroep. 
 

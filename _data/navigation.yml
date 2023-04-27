@@ -29,6 +29,8 @@ hahn-aarsse:
   - title: "Hahn-Aarsse FamilieBoek"
     url: /HahnAarsse/index
     children:
+      - title: "English version"
+        url: /HahnAarsse-en/
       - title: "Adrienne de Grauw"
         url: /HahnAarsse/deGrauw
       - title: "Tante Victoire"
@@ -61,3 +63,44 @@ hahn-aarsse:
         url: /HahnAarsse/JetHahn
       - title: "Photo Catalog"
         url: /HahnAarsse/catalog
+
+
+# Menu for Hahn-Aarsse English album subpages
+hahn-aarsse-en:
+  - title: "Hahn-Aarsse Family album"
+    url: /HahnAarsse-en/index
+    children:
+      - title: "Dutch version"
+        url: /HahnAarsse/
+      - title: "Adrienne de Grauw"
+        url: /HahnAarsse-en/deGrauw
+      - title: "Aunt Victoire"
+        url: /HahnAarsse-en/TanteVictoire
+      - title: "Henriette de Ridder"
+        url: /HahnAarsse-en/HenrietteDeRidder
+      - title: "Lydia de Ridder"
+        url: /HahnAarsse-en/LydiaDeRidder
+      - title: "Aarsse-Fritz"
+        url: /HahnAarsse-en/Aarsse-Fritz
+      - title: "The Playloft"
+        url: /HahnAarsse-en/Speelzolder
+      - title: "Jet Aarsse"
+        url: /HahnAarsse-en/JetAarsse
+      - title: "Elspeet, 1932"
+        url: /HahnAarsse-en/Elspeet
+      - title: "Hahn-Aarsse"
+        url: /HahnAarsse-en/Hahn-Aarsse
+      - title: "Letters from Georg Hahn"
+        url: /HahnAarsse-en/LettersFromGeorg
+      - title: "After the war - Oma Hahn"
+        url: /HahnAarsse-en/NaDeOorlog
+      - title: "Auntie Do goes to Bucharest"
+        url: /HahnAarsse-en/DoNaarBoekarest
+      - title: "Aunt Do and Uncle Huug Bosscha"
+        url: /HahnAarsse-en/DoEnHuug
+      - title: "Uncle Louis Hahn"
+        url: /HahnAarsse-en/OomLouis
+      - title: "Jettie Nierstrasz - Hahn"
+        url: /HahnAarsse-en/JetHahn
+      - title: "Photo Catalog"
+        url: /HahnAarsse-en/catalog
