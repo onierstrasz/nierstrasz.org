@@ -7,7 +7,7 @@ sidebar:
 
 |[![Nierstrasz coat of arms](/assets/images/Crest/small/crest-small.jpg)](/Crest/nierstrasz-coat-of-arms)|[![Peltzer gravestone](/assets/images/Crest/small/peltzer_nierstrasz-small.jpg)](/Crest/peltzer-gravestone)|
 |---|---|
-|The Nierstrasz coat-of-arms, Nederlands' Praticiaat 1924 |Gravestone of Simon Peltzer and Anna Maria Nierstras|
+|The Nierstrasz coat-of-arms, Nederlands' Patriciaat 1924 |Gravestone of Simon Peltzer and Anna Maria Nierstras|
 
 Over the years there has been considerable disagreement concerning the Nierstrasz coat of arms.
 The one shown at left (shown in the Nederlands' Patriciaat of 1924) was apparently used by Jacob N. (1670-1751) and his (German) descendants.
