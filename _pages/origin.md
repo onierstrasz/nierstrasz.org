@@ -7,7 +7,7 @@ sidebar:
 
 *From Mitteilungen der Westdt. Gesellschaft für Familienkunde 1935.*
 
-The text has been transcribed from the original document [“Die Stammeltern des reformierten Geschlechts Nierstrasz in Eschweiler”](/assets/sources/StammelternNierstraß-HeinrichMuellers.pdf) by Heinrich Müllers, Frankfurt Main.
+The text has been transcribed from the original document [“Die Stammeltern des reformierten Geschlechts Nierstrasz in Eschweiler”](/assets/sources/StammelternNierstra%C3%9F-HeinrichMuellers.pdf) by Heinrich Müllers, Frankfurt Main.
 Thanks to Kurt Nacken for the source material.
 
 **NB:** The text has been translated to English with the help of [deepl](https://www.deepl.com/translator) from the [German version of this document](/origin-de).
