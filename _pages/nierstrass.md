@@ -10,7 +10,7 @@ sidebar:
 ”Nierstraß” is [a small town about 20 km. north of Aachen](https://goo.gl/maps/jtZpWQ1rht66TfQR6), Germany, not far from the border with Limburg, in the South of the Netherlands.
 It is also close to Maastricht, where the main branch of the Nierstrasz family settled.
 
-Note that the German “sharp S”, spelled “ß” is a [ligature for the characters “sz”](https://en.wikipedia.org/wiki/ß). Since this ligature was not used in Dutch, the name was written “Nierstrasz” in the Netherlands.
+Note that the German “sharp S”, spelled “ß” is a [ligature for the characters “sz”](https://en.wikipedia.org/wiki/%C3%9F). Since this ligature was not used in Dutch, the name was written “Nierstrasz” in the Netherlands.
 
 ”Nierstrass” is a contraction of “Niederstrasse”, which means “Nether Street” or “Low Road”. In fact, if you go there on foot from Geilenkirchen, you will follow a road that suddenly turns into a little gully with a cluster of houses. It is literally a “low road”!
 
