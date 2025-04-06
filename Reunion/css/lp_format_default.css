@@ -103,8 +103,8 @@
 	border: 1px solid;
 	}
 
-.wcHFather, .wcHMother, .wcWFather, .wcWMother,
-.wcHusband, .wcWife, .wcFHusband, .wcMWife,
+.wcHFather, .wcHMother, .wcWFather, .wcWMother, .wcUWFather, .wcUWMother, .wcUHFather, .wcUHMother,
+.wcHusband, .wcWife, .wcFHusband, .wcMWife, .wcUHusband, .wcUWife,
 .wcChild, .wcChildBold, .wcMChild, .wcFChild, .wcMChildBold, .wcFChildBold
 	{
 	border: 1px solid;

@@ -19,17 +19,17 @@ a img {	border-style: none; margin: 0px; }
 	clear: both;
 	}
 
-.wcHFather, .wcHMother
+.wcHFather, .wcHMother, .wcUHFather, .wcUHMother
 	{
 	float: left;
 	}
 
-.wcWFather, .wcWMother
+.wcWFather, .wcWMother, .wcUWFather, .wcUWMother
 	{
 	float: right;
 	}
 	
-.wcHFather, .wcHMother, .wcWFather, .wcWMother
+.wcHFather, .wcHMother, .wcWFather, .wcWMother, .wcUWFather, .wcUWMother, .wcUHMother, .wcUHFather
 	{
 	min-height: 2.5em;
 	width: 47%;
@@ -37,7 +37,7 @@ a img {	border-style: none; margin: 0px; }
 	padding: 3px;
 	}
 
-.wcHFather, .wcHMother, .wcWFather, .wcWMother,
+.wcHFather, .wcHMother, .wcWFather, .wcWMother,.wcUWFather, .wcUWMother, .wcUHMother, .wcUHFather,
 .wcChild, .wcChildBold, .wcMChild, .wcFChild, .wcMChildBold, .wcFChildBold
 	{
 	margin-top: 3px;
@@ -103,24 +103,24 @@ a img {	border-style: none; margin: 0px; }
 	}
 
 .wcHusband, .wcWife, .wcFHusband, .wcMWife,
-.wcHFacts, .wcWFacts
+.wcHFacts, .wcWFacts, .wcUHusband, .wcUWife
 	{
 	width: 49%;
 	}
 
 
-.wcHusband, .wcWife, .wcFHusband, .wcMWife
+.wcHusband, .wcWife, .wcFHusband, .wcMWife, .wcUHusband, .wcUWife
 	{
 	padding: 3px 0px 3px 0px;
 	margin-bottom: 3px;
 	}
 	
-.wcHusband, .wcFHusband
+.wcHusband, .wcFHusband, .wcUHusband
 	{
 	float: left;
 	}
 	
-.wcWife, .wcMWife
+.wcWife, .wcMWife, .wcUWife
 	{
 	float: right;
 	}

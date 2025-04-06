@@ -106,6 +106,35 @@ div.sur > div:first-child
 	padding: .4em;
 	}
 
+.idxEventLine
+	{
+	padding-bottom: 2px;
+	}
+
+.idxEventType
+	{
+	}
+
+.idxEventDate
+	{
+	font-weight: bold;
+	}
+
+.idxEventPlace
+	{
+	}
+
+.idxEventName
+	{
+	display: inline-block;
+	vertical-align: top;
+	}
+	
+.idxIndent
+	{
+	margin-left: 12em;
+	}
+
 @media all and (min-width: 415px)
 	{
 	.sur

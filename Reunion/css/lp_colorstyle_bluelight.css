@@ -113,7 +113,7 @@ table#results td.u
 	color: #909090;
 	}
 
-.wcHFather, .wcHMother, .wcWFather, .wcWMother
+.wcHFather, .wcHMother, .wcWFather, .wcWMother, .wcUWFather, .wcUWMother, .wcUHFather, .wcUHMother
 	{
 	border-color: #2989d3;
 	}
@@ -133,7 +133,7 @@ table#results td.u
 	color: #333;
 	}
 
-.wcHusband, .wcWife, .wcFHusband, .wcMWife,
+.wcHusband, .wcWife, .wcFHusband, .wcMWife, .wcUHusband, .wcUWife,
 .wcHFacts, .wcWFacts,
 .wcMChild, .wcFChild, .wcMChildBold, .wcFChildBold
 	{
@@ -175,7 +175,7 @@ table#results td.u
 	background-color: rgba(252,183,214,0.3);
 	}
 
-.wcChild, .wcChildBold
+.wcChild, .wcChildBold, .wcUHusband, .wcUWife, .wcUWFather, .wcUWMother, .wcUHFather, .wcUHMother
 	{
 	background-color: rgba(200,200,200,0.3);
 	}

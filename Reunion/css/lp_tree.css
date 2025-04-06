@@ -55,6 +55,11 @@
 	background-image: url(fillFemale.jpg);
 	}
 
+.unknown
+	{
+	background-image: url(fillUnknown.jpg);	
+	}
+
 .date
 	{
 	font-size: 0.83em;

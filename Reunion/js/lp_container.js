@@ -1,8 +1,4 @@
-/*
-Copyright 2017 Leister Productions, Inc.
-Developed by Mark Harrison
-*/
-
+/* Copyright 2025 Leister Productions, Inc.	*/
 
 window.addEventListener('click',function(clickEvent){hideMenuOnCorT(clickEvent);}); //click event
 window.addEventListener('touchstart',function(clickEvent){hideMenuOnCorT(clickEvent);}); //touch event
@@ -256,8 +252,8 @@ function searchArray(string,data)
 		if(results.length>0)
 			{
 			for(var iterator=0; iterator<results.length; iterator++)
-				{//build the HTML for the table from the results
-
+				{
+				//build the HTML for the table from the results
                 var thisResult = results[iterator];
 				var urlKey;
 				var sex;
@@ -268,7 +264,6 @@ function searchArray(string,data)
 					{
 					urlKey = "u";
 					url = rootLocation;
-					// url = "../";
 					}
 				else
 					{
@@ -313,10 +308,6 @@ function searchArray(string,data)
 						{
 						alternatePID = splitUKey[2];
 						}
-
-                	/*var locOfDash = thisResult[urlKey].indexOf("-");
-                	pageID = thisResult[urlKey].substring(1,locOfDash);
-                	anchorID = thisResult[urlKey].substring(locOfDash+1);*/
                 	}
                 else
                 	{
@@ -327,13 +318,18 @@ function searchArray(string,data)
                 		}
                 	}
 
-				var splitNum = (~~(pageID/500))+1;
-				var pageNum = /* (~~(pageID/500)).toString() + */ (pageID % 500).toString();
+				// var splitNum = (~~(pageID/500))+1;
+				// var pageNum = (pageID % 500).toString();
+				var splitNum = (~~( (pageID - 1)/500))+1;
+				var pageNum = (pageID % 500);
+				if( pageNum < 1 )
+					{
+					pageNum = 500;
+					}
+				pageNum = pageNum.toString();
 
                 //w/wc = webcard; r/rr = register report; a/at = ancestor report; d/dr = descendant report;
                 //g/fg = family group; p/ps = person sheet; h/fh = family history report
-
-				//url += linkTypes[pageType];
 
 				var paddedSplit = padNum(splitNum.toString(), 2);
 				if(urlKey == "u")
