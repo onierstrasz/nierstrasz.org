@@ -2,9 +2,4 @@
 
 This is the markdown data for the [Nierstrasz family website](https://www.family.nierstrasz.org).
 
-# TODO
-
-Add outline of structure.
-
-- [_pages](/_pages) — contents
-- 
+The Reunion source files for the family tree are in a [separate repo](https://github.com/onierstrasz/family-tree).
